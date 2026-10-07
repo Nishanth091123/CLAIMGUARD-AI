@@ -1,0 +1,10 @@
+Scenario,Claim_Count,Average_Expected_Loss,Total_Expected_Loss
+Delayed Reporting,331,236821.55,78387931.57
+Unusual Claim Pattern,22,1436065.98,31593451.52
+Missing Documentation,95,277660.62,26377759.29
+Very High Expected Loss,18,1299062.72,23383128.91
+Severe Incident,110,160847.95,17693274.48
+Investigation Required,143,96004.86,13728695.52
+Normal Low-Risk Claim,243,55757.08,13548970.33
+Moderate Risk Claim,29,305047.2,8846368.69
+High-Cost Claim Risk,9,823103.97,7407935.74

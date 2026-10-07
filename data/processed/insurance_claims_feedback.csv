@@ -1,0 +1,1001 @@
+Feedback_ID,Claim_ID,Customer_ID,Feedback_Category,Feedback_Reason,Satisfaction_Score,Feedback_Timestamp,Scenario,Risk_Level,Processing_Days
+FDB00001,CLM00927,CUST00927,Neutral,Clear communication,2,2021-06-18,Missing Documentation,Critical,30
+FDB00002,CLM00631,CUST00631,Very Satisfied,Easy process,4,2021-05-18,Delayed Reporting,Medium,27
+FDB00003,CLM00683,CUST00683,Satisfied,Fast response,3,2021-02-02,Unusual Claim Pattern,Critical,27
+FDB00004,CLM00515,CUST00515,Very Satisfied,Clear communication,4,2026-07-04,Normal Low-Risk Claim,Low,15
+FDB00005,CLM00366,CUST00366,Satisfied,Easy process,3,2025-06-26,Delayed Reporting,Low,26
+FDB00006,CLM00656,CUST00656,Satisfied,Clear communication,3,2023-03-11,Delayed Reporting,Low,25
+FDB00007,CLM00657,CUST00657,Very Satisfied,Fast response,4,2022-11-10,Investigation Required,Low,26
+FDB00008,CLM00530,CUST00530,Neutral,Needed more information,2,2022-09-07,Normal Low-Risk Claim,Low,9
+FDB00009,CLM00322,CUST00322,Very Satisfied,Easy process,4,2023-02-14,Unusual Claim Pattern,Critical,15
+FDB00010,CLM00071,CUST00071,Satisfied,Fast response,3,2023-10-05,Normal Low-Risk Claim,Low,5
+FDB00011,CLM00891,CUST00891,Satisfied,Easy process,3,2026-03-22,Severe Incident,Low,12
+FDB00012,CLM00372,CUST00372,Satisfied,Clear communication,3,2025-05-29,Delayed Reporting,High,22
+FDB00013,CLM00768,CUST00768,Satisfied,Clear communication,3,2023-06-09,Investigation Required,Low,13
+FDB00014,CLM00457,CUST00457,Satisfied,Clear communication,3,2024-12-16,Missing Documentation,Low,15
+FDB00015,CLM00248,CUST00248,Satisfied,Clear communication,3,2021-04-18,Delayed Reporting,Low,11
+FDB00016,CLM00612,CUST00612,Needs Improvement,Needed more information,1,2024-11-04,Delayed Reporting,Low,15
+FDB00017,CLM00706,CUST00706,Very Satisfied,Clear communication,4,2022-07-27,Very High Expected Loss,Critical,20
+FDB00018,CLM00980,CUST00980,Neutral,Clear communication,2,2023-08-01,Severe Incident,Medium,8
+FDB00019,CLM00299,CUST00299,Very Satisfied,Easy process,4,2021-09-24,Very High Expected Loss,Critical,11
+FDB00020,CLM00102,CUST00102,Needs Improvement,Processing took too long,1,2021-07-19,Delayed Reporting,Low,18
+FDB00021,CLM00961,CUST00961,Satisfied,Fast response,3,2021-01-14,Delayed Reporting,Low,24
+FDB00022,CLM00606,CUST00606,Very Satisfied,Clear communication,4,2022-01-15,Delayed Reporting,Medium,16
+FDB00023,CLM00214,CUST00214,Neutral,Clear communication,2,2023-06-08,Investigation Required,Low,21
+FDB00024,CLM00238,CUST00238,Neutral,Other,2,2023-06-06,Moderate Risk Claim,Medium,11
+FDB00025,CLM00594,CUST00594,Needs Improvement,Processing took too long,1,2024-09-17,Severe Incident,Low,16
+FDB00026,CLM00282,CUST00282,Neutral,Needed more information,2,2022-02-22,Normal Low-Risk Claim,Low,10
+FDB00027,CLM00378,CUST00378,Satisfied,Fast response,3,2023-08-10,Delayed Reporting,Low,21
+FDB00028,CLM00287,CUST00287,Satisfied,Fast response,3,2026-03-21,Normal Low-Risk Claim,Low,17
+FDB00029,CLM00389,CUST00389,Very Satisfied,Fast response,4,2021-02-09,Normal Low-Risk Claim,Low,7
+FDB00030,CLM00884,CUST00884,Neutral,Needed more information,2,2024-06-18,Unusual Claim Pattern,High,22
+FDB00031,CLM00718,CUST00718,Satisfied,Fast response,3,2025-02-09,Unusual Claim Pattern,Critical,12
+FDB00032,CLM00794,CUST00794,Neutral,Other,2,2026-07-01,Moderate Risk Claim,Medium,10
+FDB00033,CLM00097,CUST00097,Very Satisfied,Clear communication,4,2026-06-25,Delayed Reporting,Low,16
+FDB00034,CLM00245,CUST00245,Satisfied,Fast response,3,2022-07-23,Delayed Reporting,Low,16
+FDB00035,CLM00747,CUST00747,Satisfied,Easy process,3,2021-03-31,Delayed Reporting,Low,29
+FDB00036,CLM00077,CUST00077,Satisfied,Easy process,3,2021-02-20,Delayed Reporting,Low,27
+FDB00037,CLM00934,CUST00934,Satisfied,Easy process,3,2023-12-13,Delayed Reporting,Low,28
+FDB00038,CLM00210,CUST00210,Satisfied,Easy process,3,2021-12-18,Investigation Required,Low,20
+FDB00039,CLM00260,CUST00260,Very Satisfied,Clear communication,4,2025-11-10,Normal Low-Risk Claim,Low,14
+FDB00040,CLM00159,CUST00159,Very Satisfied,Easy process,4,2021-07-24,Delayed Reporting,High,26
+FDB00041,CLM00496,CUST00496,Needs Improvement,Needed more information,1,2026-03-10,Delayed Reporting,Low,17
+FDB00042,CLM00527,CUST00527,Very Satisfied,Clear communication,4,2023-04-09,Severe Incident,Low,24
+FDB00043,CLM00332,CUST00332,Neutral,Clear communication,2,2023-02-20,Delayed Reporting,High,15
+FDB00044,CLM00953,CUST00953,Neutral,Other,2,2026-02-10,Severe Incident,Low,16
+FDB00045,CLM00315,CUST00315,Neutral,Clear communication,2,2025-09-22,Very High Expected Loss,Critical,20
+FDB00046,CLM00295,CUST00295,Needs Improvement,Processing took too long,1,2021-02-16,Delayed Reporting,Low,30
+FDB00047,CLM00382,CUST00382,Neutral,Other,2,2021-04-24,Delayed Reporting,High,17
+FDB00048,CLM00921,CUST00921,Neutral,Needed more information,2,2025-08-18,Severe Incident,Low,18
+FDB00049,CLM00804,CUST00804,Very Satisfied,Clear communication,4,2024-08-26,Delayed Reporting,Low,12
+FDB00050,CLM00955,CUST00955,Satisfied,Easy process,3,2023-09-16,Normal Low-Risk Claim,Low,9
+FDB00051,CLM00622,CUST00622,Neutral,Needed more information,2,2025-03-21,Severe Incident,Medium,26
+FDB00052,CLM00719,CUST00719,Neutral,Clear communication,2,2022-01-25,Severe Incident,Low,13
+FDB00053,CLM00060,CUST00060,Satisfied,Clear communication,3,2024-05-17,Severe Incident,Low,22
+FDB00054,CLM00626,CUST00626,Neutral,Clear communication,2,2021-05-12,Delayed Reporting,Low,22
+FDB00055,CLM00559,CUST00559,Neutral,Other,2,2024-10-27,Investigation Required,Low,21
+FDB00056,CLM00784,CUST00784,Neutral,Other,2,2024-01-12,Normal Low-Risk Claim,Low,18
+FDB00057,CLM00381,CUST00381,Very Satisfied,Clear communication,4,2026-05-17,Investigation Required,Low,18
+FDB00058,CLM00055,CUST00055,Satisfied,Fast response,3,2024-07-02,Investigation Required,Medium,5
+FDB00059,CLM00024,CUST00024,Satisfied,Clear communication,3,2021-09-21,Normal Low-Risk Claim,Low,9
+FDB00060,CLM00031,CUST00031,Very Satisfied,Clear communication,4,2021-12-06,Investigation Required,Low,16
+FDB00061,CLM00877,CUST00877,Satisfied,Easy process,3,2024-12-21,Severe Incident,Low,9
+FDB00062,CLM00430,CUST00430,Neutral,Needed more information,2,2024-11-20,Missing Documentation,High,33
+FDB00063,CLM00011,CUST00011,Very Satisfied,Clear communication,4,2025-01-29,Normal Low-Risk Claim,Low,15
+FDB00064,CLM00817,CUST00817,Satisfied,Clear communication,3,2026-02-24,Normal Low-Risk Claim,Low,11
+FDB00065,CLM00810,CUST00810,Very Satisfied,Easy process,4,2026-03-13,Normal Low-Risk Claim,Low,7
+FDB00066,CLM00483,CUST00483,Very Satisfied,Clear communication,4,2026-03-22,Normal Low-Risk Claim,Low,12
+FDB00067,CLM00446,CUST00446,Neutral,Needed more information,2,2023-08-18,Normal Low-Risk Claim,Low,10
+FDB00068,CLM00200,CUST00200,Satisfied,Fast response,3,2024-06-30,Investigation Required,Low,20
+FDB00069,CLM00501,CUST00501,Satisfied,Fast response,3,2024-03-16,Delayed Reporting,Low,16
+FDB00070,CLM00774,CUST00774,Satisfied,Fast response,3,2023-12-08,Unusual Claim Pattern,Critical,3
+FDB00071,CLM00108,CUST00108,Neutral,Needed more information,2,2025-02-26,Delayed Reporting,Low,20
+FDB00072,CLM00219,CUST00219,Very Satisfied,Easy process,4,2022-07-09,Investigation Required,Medium,22
+FDB00073,CLM00421,CUST00421,Satisfied,Easy process,3,2025-05-18,Delayed Reporting,Low,24
+FDB00074,CLM00175,CUST00175,Satisfied,Clear communication,3,2021-07-25,Delayed Reporting,Low,22
+FDB00075,CLM00721,CUST00721,Satisfied,Easy process,3,2022-02-14,Delayed Reporting,Critical,21
+FDB00076,CLM00520,CUST00520,Neutral,Other,2,2021-06-23,Delayed Reporting,Low,14
+FDB00077,CLM00454,CUST00454,Very Satisfied,Clear communication,4,2026-01-04,Delayed Reporting,Low,22
+FDB00078,CLM00930,CUST00930,Satisfied,Easy process,3,2025-04-26,Investigation Required,Low,17
+FDB00079,CLM00040,CUST00040,Neutral,Needed more information,2,2021-04-13,Delayed Reporting,Low,26
+FDB00080,CLM00552,CUST00552,Satisfied,Clear communication,3,2021-07-11,Delayed Reporting,Low,20
+FDB00081,CLM00820,CUST00820,Very Satisfied,Easy process,4,2022-03-24,Investigation Required,Low,23
+FDB00082,CLM00352,CUST00352,Satisfied,Fast response,3,2022-06-19,Investigation Required,Low,16
+FDB00083,CLM00067,CUST00067,Needs Improvement,Processing took too long,1,2025-08-18,Missing Documentation,Critical,17
+FDB00084,CLM00278,CUST00278,Neutral,Other,2,2022-09-19,Moderate Risk Claim,Medium,5
+FDB00085,CLM00068,CUST00068,Satisfied,Easy process,3,2026-06-27,Normal Low-Risk Claim,Low,5
+FDB00086,CLM00907,CUST00907,Needs Improvement,Other,1,2026-06-08,Investigation Required,Medium,23
+FDB00087,CLM00915,CUST00915,Satisfied,Fast response,3,2022-09-19,Delayed Reporting,Low,21
+FDB00088,CLM00945,CUST00945,Satisfied,Clear communication,3,2021-11-15,Delayed Reporting,Low,22
+FDB00089,CLM00297,CUST00297,Satisfied,Easy process,3,2021-03-31,Severe Incident,Low,14
+FDB00090,CLM00619,CUST00619,Satisfied,Fast response,3,2022-04-09,Normal Low-Risk Claim,Low,6
+FDB00091,CLM00599,CUST00599,Very Satisfied,Fast response,4,2024-12-11,Normal Low-Risk Claim,Low,11
+FDB00092,CLM00905,CUST00905,Needs Improvement,Other,1,2022-02-16,Moderate Risk Claim,Medium,6
+FDB00093,CLM00849,CUST00849,Neutral,Other,2,2023-06-01,Normal Low-Risk Claim,Low,13
+FDB00094,CLM00424,CUST00424,Neutral,Clear communication,2,2025-05-24,Missing Documentation,Low,36
+FDB00095,CLM00758,CUST00758,Neutral,Clear communication,2,2024-07-03,Normal Low-Risk Claim,Low,8
+FDB00096,CLM00313,CUST00313,Neutral,Needed more information,2,2021-02-16,Missing Documentation,Medium,33
+FDB00097,CLM00185,CUST00185,Satisfied,Clear communication,3,2022-04-11,Delayed Reporting,Low,16
+FDB00098,CLM00333,CUST00333,Very Satisfied,Easy process,4,2024-11-07,Delayed Reporting,Critical,17
+FDB00099,CLM00089,CUST00089,Very Satisfied,Clear communication,4,2026-01-04,Missing Documentation,Low,25
+FDB00100,CLM00064,CUST00064,Very Satisfied,Easy process,4,2021-11-23,Missing Documentation,Low,20
+FDB00101,CLM00831,CUST00831,Neutral,Other,2,2025-11-13,Normal Low-Risk Claim,Low,10
+FDB00102,CLM00577,CUST00577,Very Satisfied,Fast response,4,2023-04-18,Normal Low-Risk Claim,Low,12
+FDB00103,CLM00216,CUST00216,Satisfied,Clear communication,3,2023-03-03,Investigation Required,High,10
+FDB00104,CLM00605,CUST00605,Satisfied,Clear communication,3,2022-03-26,Normal Low-Risk Claim,Low,4
+FDB00105,CLM00549,CUST00549,Very Satisfied,Easy process,4,2025-12-07,Severe Incident,Low,20
+FDB00106,CLM00291,CUST00291,Satisfied,Clear communication,3,2023-03-20,Investigation Required,Low,13
+FDB00107,CLM00788,CUST00788,Needs Improvement,Needed more information,1,2021-02-08,Missing Documentation,Low,23
+FDB00108,CLM00888,CUST00888,Neutral,Clear communication,2,2021-11-15,Normal Low-Risk Claim,Low,15
+FDB00109,CLM00965,CUST00965,Very Satisfied,Clear communication,4,2025-03-07,Delayed Reporting,Medium,20
+FDB00110,CLM00943,CUST00943,Satisfied,Fast response,3,2024-05-09,Unusual Claim Pattern,Critical,26
+FDB00111,CLM00742,CUST00742,Satisfied,Fast response,3,2023-12-24,Normal Low-Risk Claim,Low,7
+FDB00112,CLM00979,CUST00979,Needs Improvement,Needed more information,1,2025-05-21,Severe Incident,Low,15
+FDB00113,CLM00695,CUST00695,Very Satisfied,Fast response,4,2025-02-12,Normal Low-Risk Claim,Low,14
+FDB00114,CLM00991,CUST00991,Neutral,Clear communication,2,2026-05-30,Normal Low-Risk Claim,Low,7
+FDB00115,CLM00310,CUST00310,Neutral,Other,2,2023-08-15,Normal Low-Risk Claim,Low,12
+FDB00116,CLM00087,CUST00087,Satisfied,Clear communication,3,2025-12-26,Severe Incident,Medium,20
+FDB00117,CLM00729,CUST00729,Neutral,Other,2,2024-02-02,Delayed Reporting,Low,14
+FDB00118,CLM00517,CUST00517,Neutral,Needed more information,2,2021-06-19,Delayed Reporting,Low,24
+FDB00119,CLM00311,CUST00311,Neutral,Other,2,2022-07-12,Severe Incident,High,16
+FDB00120,CLM00537,CUST00537,Needs Improvement,Processing took too long,1,2024-08-27,Delayed Reporting,Medium,23
+FDB00121,CLM00137,CUST00137,Neutral,Needed more information,2,2025-02-02,Missing Documentation,Low,18
+FDB00122,CLM00922,CUST00922,Very Satisfied,Fast response,4,2022-07-31,Missing Documentation,Critical,32
+FDB00123,CLM00466,CUST00466,Needs Improvement,Needed more information,1,2024-10-30,Delayed Reporting,Low,28
+FDB00124,CLM00846,CUST00846,Very Satisfied,Fast response,4,2022-01-15,Delayed Reporting,Low,28
+FDB00125,CLM00262,CUST00262,Satisfied,Fast response,3,2023-08-15,Investigation Required,Low,10
+FDB00126,CLM00487,CUST00487,Satisfied,Easy process,3,2021-03-26,Delayed Reporting,Low,20
+FDB00127,CLM00169,CUST00169,Satisfied,Easy process,3,2021-12-01,Missing Documentation,Low,17
+FDB00128,CLM00829,CUST00829,Very Satisfied,Fast response,4,2023-12-17,Delayed Reporting,Low,20
+FDB00129,CLM00448,CUST00448,Satisfied,Clear communication,3,2024-09-15,Missing Documentation,Medium,39
+FDB00130,CLM00140,CUST00140,Neutral,Clear communication,2,2021-05-01,Delayed Reporting,Medium,25
+FDB00131,CLM00740,CUST00740,Neutral,Other,2,2021-10-25,Delayed Reporting,Low,31
+FDB00132,CLM00665,CUST00665,Satisfied,Clear communication,3,2023-12-14,Delayed Reporting,Critical,32
+FDB00133,CLM00854,CUST00854,Satisfied,Fast response,3,2023-10-07,Delayed Reporting,Low,18
+FDB00134,CLM00441,CUST00441,Needs Improvement,Needed more information,1,2021-09-27,Delayed Reporting,Low,14
+FDB00135,CLM00522,CUST00522,Satisfied,Clear communication,3,2023-01-02,Unusual Claim Pattern,Critical,13
+FDB00136,CLM00532,CUST00532,Satisfied,Easy process,3,2023-11-21,Normal Low-Risk Claim,Low,15
+FDB00137,CLM00056,CUST00056,Neutral,Other,2,2025-12-21,Missing Documentation,Low,36
+FDB00138,CLM00121,CUST00121,Satisfied,Easy process,3,2021-04-25,Delayed Reporting,Low,12
+FDB00139,CLM00529,CUST00529,Very Satisfied,Clear communication,4,2021-12-17,Normal Low-Risk Claim,Low,12
+FDB00140,CLM00026,CUST00026,Satisfied,Easy process,3,2026-08-19,Missing Documentation,Medium,22
+FDB00141,CLM00073,CUST00073,Very Satisfied,Fast response,4,2023-07-28,Severe Incident,Low,23
+FDB00142,CLM00045,CUST00045,Needs Improvement,Needed more information,1,2021-06-17,Investigation Required,Low,8
+FDB00143,CLM00250,CUST00250,Neutral,Clear communication,2,2022-12-06,Delayed Reporting,Medium,21
+FDB00144,CLM00395,CUST00395,Needs Improvement,Needed more information,1,2023-03-10,Missing Documentation,Medium,25
+FDB00145,CLM00913,CUST00913,Satisfied,Easy process,3,2025-11-03,Very High Expected Loss,Critical,24
+FDB00146,CLM00899,CUST00899,Satisfied,Easy process,3,2021-09-17,Normal Low-Risk Claim,Low,14
+FDB00147,CLM00746,CUST00746,Very Satisfied,Easy process,4,2023-07-11,Normal Low-Risk Claim,Low,11
+FDB00148,CLM00199,CUST00199,Satisfied,Clear communication,3,2022-12-28,Normal Low-Risk Claim,High,12
+FDB00149,CLM00815,CUST00815,Satisfied,Clear communication,3,2024-03-11,Normal Low-Risk Claim,Low,11
+FDB00150,CLM00356,CUST00356,Very Satisfied,Easy process,4,2025-03-25,Normal Low-Risk Claim,Low,6
+FDB00151,CLM00324,CUST00324,Satisfied,Fast response,3,2022-04-21,Investigation Required,Low,9
+FDB00152,CLM00875,CUST00875,Neutral,Needed more information,2,2021-04-08,Missing Documentation,Low,17
+FDB00153,CLM00826,CUST00826,Very Satisfied,Clear communication,4,2022-01-22,Moderate Risk Claim,Medium,7
+FDB00154,CLM00236,CUST00236,Needs Improvement,Processing took too long,1,2022-07-15,Delayed Reporting,Medium,13
+FDB00155,CLM00579,CUST00579,Satisfied,Fast response,3,2022-02-27,Normal Low-Risk Claim,Low,16
+FDB00156,CLM00946,CUST00946,Neutral,Clear communication,2,2023-01-07,Delayed Reporting,Critical,23
+FDB00157,CLM00940,CUST00940,Neutral,Clear communication,2,2025-04-29,Delayed Reporting,Medium,20
+FDB00158,CLM00904,CUST00904,Neutral,Other,2,2025-07-13,Missing Documentation,Low,27
+FDB00159,CLM00300,CUST00300,Satisfied,Clear communication,3,2022-12-07,Missing Documentation,High,25
+FDB00160,CLM00061,CUST00061,Satisfied,Fast response,3,2025-05-23,Severe Incident,Low,18
+FDB00161,CLM00328,CUST00328,Neutral,Clear communication,2,2021-04-27,Delayed Reporting,Medium,22
+FDB00162,CLM00528,CUST00528,Very Satisfied,Clear communication,4,2023-08-18,Normal Low-Risk Claim,Low,14
+FDB00163,CLM00600,CUST00600,Satisfied,Easy process,3,2021-08-14,Delayed Reporting,Low,19
+FDB00164,CLM00542,CUST00542,Very Satisfied,Fast response,4,2024-10-12,Severe Incident,Medium,10
+FDB00165,CLM00650,CUST00650,Neutral,Other,2,2021-08-29,Normal Low-Risk Claim,Low,10
+FDB00166,CLM00771,CUST00771,Satisfied,Fast response,3,2026-01-20,Missing Documentation,High,21
+FDB00167,CLM00597,CUST00597,Very Satisfied,Clear communication,4,2022-05-04,Normal Low-Risk Claim,Low,8
+FDB00168,CLM00543,CUST00543,Neutral,Other,2,2022-11-06,Delayed Reporting,Medium,18
+FDB00169,CLM00782,CUST00782,Satisfied,Clear communication,3,2024-09-27,Investigation Required,Low,7
+FDB00170,CLM00306,CUST00306,Needs Improvement,Processing took too long,1,2025-02-14,Normal Low-Risk Claim,Low,12
+FDB00171,CLM00319,CUST00319,Satisfied,Fast response,3,2024-04-17,Normal Low-Risk Claim,Low,14
+FDB00172,CLM00482,CUST00482,Satisfied,Fast response,3,2024-11-12,Investigation Required,Low,5
+FDB00173,CLM00494,CUST00494,Neutral,Needed more information,2,2025-09-19,Severe Incident,Low,14
+FDB00174,CLM00266,CUST00266,Satisfied,Easy process,3,2023-11-15,Normal Low-Risk Claim,Low,6
+FDB00175,CLM00111,CUST00111,Satisfied,Easy process,3,2026-05-26,Delayed Reporting,Low,27
+FDB00176,CLM00469,CUST00469,Satisfied,Easy process,3,2023-08-11,Normal Low-Risk Claim,Low,13
+FDB00177,CLM00737,CUST00737,Satisfied,Fast response,3,2023-11-27,Delayed Reporting,Low,27
+FDB00178,CLM00526,CUST00526,Very Satisfied,Fast response,4,2021-05-15,Delayed Reporting,Low,21
+FDB00179,CLM00257,CUST00257,Neutral,Other,2,2024-07-16,Missing Documentation,High,32
+FDB00180,CLM00261,CUST00261,Very Satisfied,Easy process,4,2025-06-24,Severe Incident,Medium,20
+FDB00181,CLM00545,CUST00545,Needs Improvement,Processing took too long,1,2023-10-17,Delayed Reporting,Low,19
+FDB00182,CLM00406,CUST00406,Satisfied,Easy process,3,2026-02-01,Missing Documentation,Low,22
+FDB00183,CLM00429,CUST00429,Satisfied,Clear communication,3,2026-01-20,Normal Low-Risk Claim,Low,14
+FDB00184,CLM00629,CUST00629,Satisfied,Clear communication,3,2021-05-17,Investigation Required,Low,21
+FDB00185,CLM00502,CUST00502,Satisfied,Fast response,3,2026-02-13,Severe Incident,Low,20
+FDB00186,CLM00433,CUST00433,Needs Improvement,Other,1,2022-01-31,Normal Low-Risk Claim,Low,9
+FDB00187,CLM00732,CUST00732,Satisfied,Easy process,3,2022-07-15,Severe Incident,Low,22
+FDB00188,CLM00138,CUST00138,Very Satisfied,Fast response,4,2024-08-25,Severe Incident,Low,15
+FDB00189,CLM00358,CUST00358,Very Satisfied,Fast response,4,2023-08-09,Normal Low-Risk Claim,Low,9
+FDB00190,CLM00929,CUST00929,Satisfied,Fast response,3,2022-10-28,Delayed Reporting,High,30
+FDB00191,CLM00222,CUST00222,Neutral,Clear communication,2,2025-12-30,Investigation Required,Low,19
+FDB00192,CLM00754,CUST00754,Satisfied,Easy process,3,2025-03-04,Investigation Required,Low,7
+FDB00193,CLM00595,CUST00595,Neutral,Other,2,2026-08-04,Delayed Reporting,Low,23
+FDB00194,CLM00558,CUST00558,Satisfied,Easy process,3,2026-06-09,Delayed Reporting,Low,21
+FDB00195,CLM00364,CUST00364,Satisfied,Fast response,3,2026-01-24,Investigation Required,Low,14
+FDB00196,CLM00524,CUST00524,Satisfied,Easy process,3,2023-11-05,Delayed Reporting,High,20
+FDB00197,CLM00209,CUST00209,Very Satisfied,Easy process,4,2026-06-06,Delayed Reporting,Low,24
+FDB00198,CLM00779,CUST00779,Very Satisfied,Easy process,4,2026-05-01,Normal Low-Risk Claim,Low,14
+FDB00199,CLM00335,CUST00335,Very Satisfied,Fast response,4,2026-01-11,Investigation Required,Low,16
+FDB00200,CLM00211,CUST00211,Neutral,Clear communication,2,2023-12-28,Severe Incident,Medium,13
+FDB00201,CLM00351,CUST00351,Satisfied,Fast response,3,2025-03-02,Delayed Reporting,Low,19
+FDB00202,CLM00079,CUST00079,Neutral,Clear communication,2,2024-03-17,Delayed Reporting,Low,23
+FDB00203,CLM00030,CUST00030,Satisfied,Easy process,3,2022-02-03,Normal Low-Risk Claim,Low,14
+FDB00204,CLM00281,CUST00281,Satisfied,Easy process,3,2023-04-07,Delayed Reporting,Critical,24
+FDB00205,CLM00508,CUST00508,Satisfied,Fast response,3,2022-08-22,Severe Incident,Low,18
+FDB00206,CLM00653,CUST00653,Needs Improvement,Processing took too long,1,2023-06-12,Severe Incident,Low,20
+FDB00207,CLM00947,CUST00947,Satisfied,Fast response,3,2022-01-21,Delayed Reporting,Low,22
+FDB00208,CLM00290,CUST00290,Neutral,Needed more information,2,2026-07-04,Delayed Reporting,Low,32
+FDB00209,CLM00166,CUST00166,Satisfied,Easy process,3,2021-06-23,Normal Low-Risk Claim,Low,7
+FDB00210,CLM00762,CUST00762,Neutral,Other,2,2025-10-31,Severe Incident,Medium,14
+FDB00211,CLM00498,CUST00498,Needs Improvement,Other,1,2022-07-17,Normal Low-Risk Claim,Low,11
+FDB00212,CLM00463,CUST00463,Needs Improvement,Processing took too long,1,2021-09-20,Missing Documentation,Low,38
+FDB00213,CLM00066,CUST00066,Neutral,Other,2,2025-02-08,Delayed Reporting,Medium,12
+FDB00214,CLM00142,CUST00142,Satisfied,Easy process,3,2026-07-28,Delayed Reporting,Low,18
+FDB00215,CLM00276,CUST00276,Neutral,Other,2,2023-01-17,Delayed Reporting,Low,23
+FDB00216,CLM00952,CUST00952,Needs Improvement,Other,1,2025-04-02,Delayed Reporting,Low,22
+FDB00217,CLM00583,CUST00583,Neutral,Needed more information,2,2026-03-24,Delayed Reporting,Critical,28
+FDB00218,CLM00465,CUST00465,Very Satisfied,Easy process,4,2026-02-22,Moderate Risk Claim,Medium,13
+FDB00219,CLM00669,CUST00669,Very Satisfied,Clear communication,4,2026-03-11,Missing Documentation,Medium,22
+FDB00220,CLM00320,CUST00320,Satisfied,Easy process,3,2025-01-06,Severe Incident,Low,22
+FDB00221,CLM00716,CUST00716,Very Satisfied,Clear communication,4,2025-10-14,High-Cost Claim Risk,High,15
+FDB00222,CLM00307,CUST00307,Satisfied,Fast response,3,2024-12-01,Delayed Reporting,Low,16
+FDB00223,CLM00308,CUST00308,Satisfied,Fast response,3,2024-12-16,Missing Documentation,Low,25
+FDB00224,CLM00825,CUST00825,Neutral,Needed more information,2,2023-09-12,Severe Incident,Medium,18
+FDB00225,CLM00334,CUST00334,Neutral,Clear communication,2,2022-10-23,Delayed Reporting,Low,17
+FDB00226,CLM00050,CUST00050,Satisfied,Fast response,3,2021-07-12,Severe Incident,Medium,21
+FDB00227,CLM00731,CUST00731,Neutral,Clear communication,2,2026-07-24,Delayed Reporting,Low,19
+FDB00228,CLM00003,CUST00003,Needs Improvement,Needed more information,1,2025-12-06,Normal Low-Risk Claim,Low,10
+FDB00229,CLM00786,CUST00786,Neutral,Clear communication,2,2024-06-13,Investigation Required,Medium,17
+FDB00230,CLM00353,CUST00353,Satisfied,Easy process,3,2024-09-22,Delayed Reporting,Low,28
+FDB00231,CLM00909,CUST00909,Neutral,Other,2,2026-04-21,Delayed Reporting,Low,27
+FDB00232,CLM00539,CUST00539,Needs Improvement,Processing took too long,1,2021-02-20,Missing Documentation,Low,39
+FDB00233,CLM00347,CUST00347,Satisfied,Fast response,3,2024-11-14,Normal Low-Risk Claim,Low,13
+FDB00234,CLM01000,CUST01000,Satisfied,Clear communication,3,2025-04-30,Normal Low-Risk Claim,Low,6
+FDB00235,CLM00484,CUST00484,Needs Improvement,Needed more information,1,2025-01-15,Normal Low-Risk Claim,Low,12
+FDB00236,CLM00661,CUST00661,Very Satisfied,Clear communication,4,2024-07-03,Severe Incident,Low,15
+FDB00237,CLM00034,CUST00034,Neutral,Clear communication,2,2021-10-07,Very High Expected Loss,Critical,18
+FDB00238,CLM00032,CUST00032,Very Satisfied,Fast response,4,2021-02-17,Severe Incident,Low,11
+FDB00239,CLM00232,CUST00232,Needs Improvement,Processing took too long,1,2025-12-14,Normal Low-Risk Claim,Low,16
+FDB00240,CLM00752,CUST00752,Satisfied,Easy process,3,2024-11-24,Delayed Reporting,Low,13
+FDB00241,CLM00193,CUST00193,Satisfied,Clear communication,3,2023-07-04,Investigation Required,Low,16
+FDB00242,CLM00514,CUST00514,Very Satisfied,Easy process,4,2025-07-04,Unusual Claim Pattern,Critical,26
+FDB00243,CLM00004,CUST00004,Needs Improvement,Needed more information,1,2025-12-31,Moderate Risk Claim,Medium,6
+FDB00244,CLM00205,CUST00205,Satisfied,Fast response,3,2022-11-16,Investigation Required,Low,25
+FDB00245,CLM00434,CUST00434,Neutral,Other,2,2021-01-12,Investigation Required,Medium,26
+FDB00246,CLM00807,CUST00807,Satisfied,Easy process,3,2022-08-06,Normal Low-Risk Claim,Low,12
+FDB00247,CLM00984,CUST00984,Very Satisfied,Easy process,4,2023-04-19,Delayed Reporting,Medium,29
+FDB00248,CLM00110,CUST00110,Satisfied,Easy process,3,2025-11-22,High-Cost Claim Risk,Medium,18
+FDB00249,CLM00941,CUST00941,Neutral,Other,2,2025-08-05,Moderate Risk Claim,Medium,11
+FDB00250,CLM00078,CUST00078,Needs Improvement,Processing took too long,1,2024-06-03,Unusual Claim Pattern,Low,100
+FDB00251,CLM00085,CUST00085,Very Satisfied,Easy process,4,2022-08-29,Normal Low-Risk Claim,Low,9
+FDB00252,CLM00589,CUST00589,Satisfied,Clear communication,3,2025-12-06,Delayed Reporting,Low,27
+FDB00253,CLM00083,CUST00083,Needs Improvement,Processing took too long,1,2026-02-08,Delayed Reporting,Low,20
+FDB00254,CLM00255,CUST00255,Neutral,Other,2,2021-02-23,Delayed Reporting,Medium,30
+FDB00255,CLM00923,CUST00923,Satisfied,Clear communication,3,2025-08-28,Moderate Risk Claim,Medium,11
+FDB00256,CLM00409,CUST00409,Very Satisfied,Easy process,4,2026-01-11,Missing Documentation,Low,25
+FDB00257,CLM00654,CUST00654,Neutral,Clear communication,2,2024-07-07,Normal Low-Risk Claim,Low,10
+FDB00258,CLM00919,CUST00919,Very Satisfied,Clear communication,4,2022-01-30,Investigation Required,Low,17
+FDB00259,CLM00437,CUST00437,Satisfied,Fast response,3,2022-12-20,Delayed Reporting,Low,24
+FDB00260,CLM00006,CUST00006,Satisfied,Clear communication,3,2025-09-06,Normal Low-Risk Claim,Low,7
+FDB00261,CLM00405,CUST00405,Neutral,Clear communication,2,2024-07-31,Missing Documentation,Low,18
+FDB00262,CLM00468,CUST00468,Satisfied,Fast response,3,2024-05-12,Severe Incident,Low,15
+FDB00263,CLM00098,CUST00098,Needs Improvement,Needed more information,1,2023-08-10,Normal Low-Risk Claim,Low,8
+FDB00264,CLM00560,CUST00560,Satisfied,Easy process,3,2024-08-05,Investigation Required,Low,22
+FDB00265,CLM00360,CUST00360,Needs Improvement,Needed more information,1,2024-07-25,Missing Documentation,Low,29
+FDB00266,CLM00873,CUST00873,Satisfied,Fast response,3,2024-03-16,Delayed Reporting,Low,15
+FDB00267,CLM00267,CUST00267,Neutral,Other,2,2024-07-16,Investigation Required,Low,17
+FDB00268,CLM00678,CUST00678,Neutral,Needed more information,2,2022-07-16,Severe Incident,Low,16
+FDB00269,CLM00383,CUST00383,Neutral,Needed more information,2,2022-12-21,Delayed Reporting,Critical,19
+FDB00270,CLM00694,CUST00694,Needs Improvement,Other,1,2023-09-02,Normal Low-Risk Claim,Low,10
+FDB00271,CLM00412,CUST00412,Satisfied,Easy process,3,2025-01-26,Investigation Required,Low,27
+FDB00272,CLM00886,CUST00886,Very Satisfied,Fast response,4,2023-07-22,Delayed Reporting,Medium,21
+FDB00273,CLM00119,CUST00119,Very Satisfied,Easy process,4,2021-11-28,Delayed Reporting,Low,12
+FDB00274,CLM00431,CUST00431,Neutral,Other,2,2025-05-16,Investigation Required,Low,22
+FDB00275,CLM00251,CUST00251,Neutral,Clear communication,2,2024-02-22,Severe Incident,Low,17
+FDB00276,CLM00343,CUST00343,Very Satisfied,Easy process,4,2021-05-26,Investigation Required,Low,23
+FDB00277,CLM00010,CUST00010,Satisfied,Easy process,3,2024-06-24,Delayed Reporting,Medium,14
+FDB00278,CLM00197,CUST00197,Very Satisfied,Easy process,4,2026-03-13,Delayed Reporting,Low,16
+FDB00279,CLM00880,CUST00880,Very Satisfied,Fast response,4,2025-03-16,Delayed Reporting,Low,20
+FDB00280,CLM00082,CUST00082,Neutral,Clear communication,2,2022-09-19,Normal Low-Risk Claim,Low,5
+FDB00281,CLM00912,CUST00912,Needs Improvement,Needed more information,1,2023-09-18,Missing Documentation,Low,24
+FDB00282,CLM00479,CUST00479,Satisfied,Fast response,3,2024-12-10,Delayed Reporting,Low,20
+FDB00283,CLM00697,CUST00697,Needs Improvement,Needed more information,1,2025-07-02,Investigation Required,Low,10
+FDB00284,CLM00240,CUST00240,Satisfied,Clear communication,3,2023-08-25,Delayed Reporting,Low,10
+FDB00285,CLM00293,CUST00293,Needs Improvement,Processing took too long,1,2023-12-10,Delayed Reporting,Low,19
+FDB00286,CLM00212,CUST00212,Very Satisfied,Easy process,4,2024-03-30,Delayed Reporting,Low,28
+FDB00287,CLM00722,CUST00722,Neutral,Other,2,2022-05-11,Delayed Reporting,Low,20
+FDB00288,CLM00362,CUST00362,Needs Improvement,Processing took too long,1,2026-05-28,Delayed Reporting,Critical,21
+FDB00289,CLM00452,CUST00452,Satisfied,Clear communication,3,2023-04-30,Severe Incident,Medium,6
+FDB00290,CLM00228,CUST00228,Very Satisfied,Fast response,4,2025-03-30,Delayed Reporting,Low,19
+FDB00291,CLM00741,CUST00741,Needs Improvement,Processing took too long,1,2023-08-16,Delayed Reporting,Low,17
+FDB00292,CLM00363,CUST00363,Satisfied,Easy process,3,2023-06-03,Normal Low-Risk Claim,Low,12
+FDB00293,CLM00801,CUST00801,Satisfied,Fast response,3,2025-11-18,Normal Low-Risk Claim,Low,14
+FDB00294,CLM00658,CUST00658,Satisfied,Fast response,3,2025-08-15,Investigation Required,Medium,21
+FDB00295,CLM00708,CUST00708,Satisfied,Easy process,3,2021-06-22,Delayed Reporting,Low,23
+FDB00296,CLM00645,CUST00645,Needs Improvement,Other,1,2024-06-17,Normal Low-Risk Claim,Low,10
+FDB00297,CLM00582,CUST00582,Neutral,Clear communication,2,2023-12-16,Delayed Reporting,Low,17
+FDB00298,CLM00937,CUST00937,Satisfied,Easy process,3,2023-06-02,Normal Low-Risk Claim,Low,13
+FDB00299,CLM00371,CUST00371,Neutral,Clear communication,2,2023-09-20,Investigation Required,Low,22
+FDB00300,CLM00008,CUST00008,Very Satisfied,Clear communication,4,2021-09-22,Normal Low-Risk Claim,Low,10
+FDB00301,CLM00156,CUST00156,Neutral,Needed more information,2,2022-11-30,Delayed Reporting,Low,19
+FDB00302,CLM00544,CUST00544,Satisfied,Easy process,3,2025-08-02,Unusual Claim Pattern,Critical,20
+FDB00303,CLM00443,CUST00443,Satisfied,Fast response,3,2026-07-31,Delayed Reporting,Low,21
+FDB00304,CLM00821,CUST00821,Very Satisfied,Fast response,4,2021-02-12,Investigation Required,Medium,15
+FDB00305,CLM00399,CUST00399,Neutral,Clear communication,2,2026-09-02,Delayed Reporting,Low,16
+FDB00306,CLM00960,CUST00960,Very Satisfied,Easy process,4,2025-06-04,Investigation Required,High,17
+FDB00307,CLM00569,CUST00569,Neutral,Needed more information,2,2024-05-03,Normal Low-Risk Claim,Low,8
+FDB00308,CLM00592,CUST00592,Needs Improvement,Needed more information,1,2022-12-12,Delayed Reporting,Low,20
+FDB00309,CLM00581,CUST00581,Satisfied,Fast response,3,2026-08-31,Normal Low-Risk Claim,Low,13
+FDB00310,CLM00939,CUST00939,Satisfied,Fast response,3,2024-03-14,Delayed Reporting,High,15
+FDB00311,CLM00696,CUST00696,Neutral,Clear communication,2,2024-01-18,Missing Documentation,Low,15
+FDB00312,CLM00867,CUST00867,Neutral,Needed more information,2,2021-12-06,Normal Low-Risk Claim,Low,4
+FDB00313,CLM00533,CUST00533,Very Satisfied,Clear communication,4,2025-02-05,Delayed Reporting,Medium,22
+FDB00314,CLM00586,CUST00586,Satisfied,Clear communication,3,2021-09-04,Delayed Reporting,Low,24
+FDB00315,CLM00712,CUST00712,Neutral,Clear communication,2,2024-09-19,Investigation Required,Low,19
+FDB00316,CLM00451,CUST00451,Satisfied,Easy process,3,2026-05-13,Severe Incident,Low,18
+FDB00317,CLM00856,CUST00856,Needs Improvement,Needed more information,1,2024-05-02,Severe Incident,Low,24
+FDB00318,CLM00229,CUST00229,Satisfied,Easy process,3,2021-05-30,Delayed Reporting,Low,27
+FDB00319,CLM00591,CUST00591,Needs Improvement,Processing took too long,1,2022-02-28,Moderate Risk Claim,Medium,14
+FDB00320,CLM00733,CUST00733,Satisfied,Easy process,3,2025-04-24,Delayed Reporting,Low,24
+FDB00321,CLM00213,CUST00213,Satisfied,Fast response,3,2025-09-17,Severe Incident,Low,16
+FDB00322,CLM00080,CUST00080,Satisfied,Easy process,3,2023-05-27,Delayed Reporting,Low,26
+FDB00323,CLM00149,CUST00149,Satisfied,Fast response,3,2022-12-22,Delayed Reporting,Low,18
+FDB00324,CLM00303,CUST00303,Neutral,Needed more information,2,2021-11-26,Delayed Reporting,High,23
+FDB00325,CLM00916,CUST00916,Satisfied,Clear communication,3,2023-07-25,Delayed Reporting,Low,19
+FDB00326,CLM00329,CUST00329,Neutral,Needed more information,2,2023-10-28,Delayed Reporting,Low,12
+FDB00327,CLM00928,CUST00928,Satisfied,Clear communication,3,2026-04-27,Normal Low-Risk Claim,Low,9
+FDB00328,CLM00345,CUST00345,Satisfied,Easy process,3,2023-12-08,Severe Incident,Low,23
+FDB00329,CLM00546,CUST00546,Satisfied,Easy process,3,2021-12-05,Normal Low-Risk Claim,Low,9
+FDB00330,CLM00507,CUST00507,Very Satisfied,Clear communication,4,2025-08-28,Unusual Claim Pattern,Critical,15
+FDB00331,CLM00134,CUST00134,Satisfied,Clear communication,3,2026-07-19,Normal Low-Risk Claim,Low,9
+FDB00332,CLM00553,CUST00553,Very Satisfied,Clear communication,4,2025-09-17,Delayed Reporting,Low,15
+FDB00333,CLM00312,CUST00312,Neutral,Needed more information,2,2023-11-10,Delayed Reporting,Critical,25
+FDB00334,CLM00999,CUST00999,Neutral,Other,2,2021-02-23,Normal Low-Risk Claim,Low,12
+FDB00335,CLM00568,CUST00568,Needs Improvement,Processing took too long,1,2026-08-28,Moderate Risk Claim,Medium,17
+FDB00336,CLM00001,CUST00001,Satisfied,Fast response,3,2022-11-23,Normal Low-Risk Claim,Low,9
+FDB00337,CLM00317,CUST00317,Satisfied,Clear communication,3,2026-08-06,Delayed Reporting,Low,22
+FDB00338,CLM00711,CUST00711,Satisfied,Clear communication,3,2026-03-11,Severe Incident,Low,17
+FDB00339,CLM00550,CUST00550,Neutral,Clear communication,2,2021-09-19,Normal Low-Risk Claim,Low,7
+FDB00340,CLM00618,CUST00618,Satisfied,Clear communication,3,2024-01-13,Investigation Required,Medium,21
+FDB00341,CLM00535,CUST00535,Satisfied,Clear communication,3,2021-06-06,Delayed Reporting,Low,30
+FDB00342,CLM00480,CUST00480,Satisfied,Easy process,3,2022-01-08,Very High Expected Loss,Critical,25
+FDB00343,CLM00778,CUST00778,Needs Improvement,Processing took too long,1,2024-07-09,Very High Expected Loss,Critical,18
+FDB00344,CLM00173,CUST00173,Needs Improvement,Processing took too long,1,2021-05-28,Delayed Reporting,Low,22
+FDB00345,CLM00126,CUST00126,Neutral,Clear communication,2,2023-03-21,Delayed Reporting,Medium,26
+FDB00346,CLM00425,CUST00425,Needs Improvement,Needed more information,1,2022-06-11,Normal Low-Risk Claim,Low,11
+FDB00347,CLM00423,CUST00423,Satisfied,Fast response,3,2023-03-15,Normal Low-Risk Claim,Low,16
+FDB00348,CLM00555,CUST00555,Satisfied,Clear communication,3,2022-09-03,Delayed Reporting,Low,23
+FDB00349,CLM00908,CUST00908,Very Satisfied,Easy process,4,2024-08-21,Normal Low-Risk Claim,Low,4
+FDB00350,CLM00091,CUST00091,Satisfied,Clear communication,3,2025-10-20,Missing Documentation,Low,22
+FDB00351,CLM00944,CUST00944,Satisfied,Easy process,3,2025-08-25,Normal Low-Risk Claim,Low,14
+FDB00352,CLM00182,CUST00182,Neutral,Other,2,2021-08-22,Moderate Risk Claim,Medium,9
+FDB00353,CLM00275,CUST00275,Satisfied,Fast response,3,2021-04-20,Normal Low-Risk Claim,Low,7
+FDB00354,CLM00900,CUST00900,Satisfied,Clear communication,3,2026-07-28,Normal Low-Risk Claim,Low,13
+FDB00355,CLM00070,CUST00070,Very Satisfied,Easy process,4,2021-08-11,Delayed Reporting,Medium,16
+FDB00356,CLM00292,CUST00292,Satisfied,Fast response,3,2026-06-16,Investigation Required,Low,28
+FDB00357,CLM00132,CUST00132,Very Satisfied,Easy process,4,2021-02-04,Normal Low-Risk Claim,Low,16
+FDB00358,CLM00301,CUST00301,Satisfied,Easy process,3,2025-01-19,Delayed Reporting,Low,25
+FDB00359,CLM00584,CUST00584,Satisfied,Fast response,3,2023-01-20,Normal Low-Risk Claim,Low,12
+FDB00360,CLM00327,CUST00327,Neutral,Clear communication,2,2024-03-25,Investigation Required,Low,23
+FDB00361,CLM00145,CUST00145,Satisfied,Easy process,3,2025-06-04,Investigation Required,Low,23
+FDB00362,CLM00426,CUST00426,Satisfied,Fast response,3,2024-05-09,Investigation Required,Medium,9
+FDB00363,CLM00585,CUST00585,Neutral,Clear communication,2,2026-06-28,Moderate Risk Claim,Medium,3
+FDB00364,CLM00136,CUST00136,Neutral,Needed more information,2,2023-01-14,Normal Low-Risk Claim,Low,11
+FDB00365,CLM00667,CUST00667,Satisfied,Easy process,3,2025-07-18,Delayed Reporting,Medium,30
+FDB00366,CLM00165,CUST00165,Very Satisfied,Easy process,4,2026-03-19,Normal Low-Risk Claim,Low,7
+FDB00367,CLM00029,CUST00029,Very Satisfied,Clear communication,4,2025-07-31,Delayed Reporting,Low,33
+FDB00368,CLM00935,CUST00935,Very Satisfied,Clear communication,4,2024-07-11,Severe Incident,Medium,12
+FDB00369,CLM00194,CUST00194,Satisfied,Fast response,3,2024-08-23,Delayed Reporting,Low,18
+FDB00370,CLM00995,CUST00995,Very Satisfied,Clear communication,4,2025-01-26,Investigation Required,Low,13
+FDB00371,CLM00750,CUST00750,Satisfied,Fast response,3,2026-04-27,Delayed Reporting,Low,17
+FDB00372,CLM00170,CUST00170,Neutral,Needed more information,2,2024-06-11,Missing Documentation,Low,15
+FDB00373,CLM00491,CUST00491,Very Satisfied,Clear communication,4,2022-02-05,Normal Low-Risk Claim,Low,11
+FDB00374,CLM00141,CUST00141,Neutral,Other,2,2025-02-17,Investigation Required,Low,21
+FDB00375,CLM00174,CUST00174,Neutral,Other,2,2022-10-07,Normal Low-Risk Claim,Low,17
+FDB00376,CLM00007,CUST00007,Satisfied,Easy process,3,2021-03-10,Investigation Required,Low,13
+FDB00377,CLM00803,CUST00803,Neutral,Needed more information,2,2021-04-25,Normal Low-Risk Claim,Low,12
+FDB00378,CLM00636,CUST00636,Satisfied,Clear communication,3,2023-05-26,Normal Low-Risk Claim,Low,9
+FDB00379,CLM00074,CUST00074,Very Satisfied,Clear communication,4,2026-07-11,Moderate Risk Claim,Medium,7
+FDB00380,CLM00688,CUST00688,Satisfied,Fast response,3,2021-08-08,Normal Low-Risk Claim,Low,8
+FDB00381,CLM00981,CUST00981,Satisfied,Easy process,3,2023-08-16,Missing Documentation,Low,21
+FDB00382,CLM00239,CUST00239,Very Satisfied,Fast response,4,2026-01-24,Investigation Required,Low,14
+FDB00383,CLM00146,CUST00146,Satisfied,Easy process,3,2024-08-06,Normal Low-Risk Claim,Low,9
+FDB00384,CLM00797,CUST00797,Needs Improvement,Processing took too long,1,2024-11-16,Delayed Reporting,Medium,30
+FDB00385,CLM00235,CUST00235,Neutral,Needed more information,2,2024-07-20,Missing Documentation,Medium,17
+FDB00386,CLM00221,CUST00221,Neutral,Clear communication,2,2023-03-04,Normal Low-Risk Claim,Low,10
+FDB00387,CLM00478,CUST00478,Satisfied,Clear communication,3,2025-04-01,Normal Low-Risk Claim,Low,3
+FDB00388,CLM00837,CUST00837,Neutral,Other,2,2024-10-16,Normal Low-Risk Claim,Low,14
+FDB00389,CLM00133,CUST00133,Neutral,Clear communication,2,2023-04-21,Normal Low-Risk Claim,Low,14
+FDB00390,CLM00996,CUST00996,Satisfied,Fast response,3,2025-03-03,Normal Low-Risk Claim,Low,16
+FDB00391,CLM00842,CUST00842,Satisfied,Fast response,3,2022-05-14,Delayed Reporting,Low,17
+FDB00392,CLM00186,CUST00186,Neutral,Needed more information,2,2023-03-23,Investigation Required,Low,12
+FDB00393,CLM00042,CUST00042,Very Satisfied,Clear communication,4,2023-12-17,Normal Low-Risk Claim,Low,12
+FDB00394,CLM00997,CUST00997,Needs Improvement,Needed more information,1,2026-01-31,Delayed Reporting,High,12
+FDB00395,CLM00109,CUST00109,Needs Improvement,Needed more information,1,2023-10-12,Delayed Reporting,Low,18
+FDB00396,CLM00870,CUST00870,Very Satisfied,Fast response,4,2025-09-20,Investigation Required,Low,8
+FDB00397,CLM00057,CUST00057,Satisfied,Fast response,3,2022-06-04,Investigation Required,Low,24
+FDB00398,CLM00531,CUST00531,Very Satisfied,Fast response,4,2022-10-06,Delayed Reporting,Low,24
+FDB00399,CLM00871,CUST00871,Neutral,Other,2,2025-05-20,Investigation Required,Low,27
+FDB00400,CLM00604,CUST00604,Neutral,Other,2,2023-10-11,Investigation Required,Low,23
+FDB00401,CLM00865,CUST00865,Satisfied,Easy process,3,2022-12-01,Moderate Risk Claim,Medium,12
+FDB00402,CLM00025,CUST00025,Needs Improvement,Other,1,2023-05-21,Normal Low-Risk Claim,Low,9
+FDB00403,CLM00651,CUST00651,Neutral,Other,2,2025-05-10,Severe Incident,Low,22
+FDB00404,CLM00449,CUST00449,Neutral,Needed more information,2,2025-04-26,Normal Low-Risk Claim,Low,8
+FDB00405,CLM00534,CUST00534,Needs Improvement,Processing took too long,1,2024-05-12,Normal Low-Risk Claim,High,9
+FDB00406,CLM00623,CUST00623,Very Satisfied,Clear communication,4,2021-09-19,Normal Low-Risk Claim,Low,13
+FDB00407,CLM00753,CUST00753,Neutral,Needed more information,2,2023-12-09,Severe Incident,Low,22
+FDB00408,CLM00931,CUST00931,Satisfied,Fast response,3,2022-06-13,Missing Documentation,High,12
+FDB00409,CLM00339,CUST00339,Satisfied,Easy process,3,2025-11-11,Normal Low-Risk Claim,Low,10
+FDB00410,CLM00052,CUST00052,Very Satisfied,Fast response,4,2026-06-11,Normal Low-Risk Claim,Low,13
+FDB00411,CLM00668,CUST00668,Neutral,Clear communication,2,2026-03-27,Delayed Reporting,High,17
+FDB00412,CLM00519,CUST00519,Neutral,Other,2,2026-08-30,Delayed Reporting,Low,16
+FDB00413,CLM00925,CUST00925,Neutral,Needed more information,2,2022-06-09,Normal Low-Risk Claim,Low,6
+FDB00414,CLM00637,CUST00637,Satisfied,Easy process,3,2025-01-13,Normal Low-Risk Claim,Low,7
+FDB00415,CLM00265,CUST00265,Satisfied,Clear communication,3,2025-05-09,Moderate Risk Claim,Medium,16
+FDB00416,CLM00540,CUST00540,Satisfied,Clear communication,3,2025-02-15,Investigation Required,Low,20
+FDB00417,CLM00715,CUST00715,Neutral,Needed more information,2,2024-07-10,Delayed Reporting,Medium,32
+FDB00418,CLM00957,CUST00957,Satisfied,Fast response,3,2026-08-10,Investigation Required,Low,16
+FDB00419,CLM00951,CUST00951,Satisfied,Fast response,3,2024-03-04,Investigation Required,Low,21
+FDB00420,CLM00878,CUST00878,Needs Improvement,Needed more information,1,2021-05-01,Severe Incident,Medium,18
+FDB00421,CLM00450,CUST00450,Neutral,Clear communication,2,2023-11-27,Severe Incident,Medium,16
+FDB00422,CLM00019,CUST00019,Very Satisfied,Easy process,4,2022-08-30,Severe Incident,Low,12
+FDB00423,CLM00896,CUST00896,Neutral,Other,2,2024-01-05,Normal Low-Risk Claim,Low,14
+FDB00424,CLM00486,CUST00486,Satisfied,Fast response,3,2021-03-16,Delayed Reporting,Low,28
+FDB00425,CLM00571,CUST00571,Satisfied,Fast response,3,2025-04-11,Delayed Reporting,Low,21
+FDB00426,CLM00368,CUST00368,Very Satisfied,Easy process,4,2022-04-24,Delayed Reporting,Critical,28
+FDB00427,CLM00084,CUST00084,Neutral,Needed more information,2,2026-05-31,Investigation Required,Medium,20
+FDB00428,CLM00062,CUST00062,Very Satisfied,Clear communication,4,2025-08-07,Delayed Reporting,Low,12
+FDB00429,CLM00440,CUST00440,Needs Improvement,Other,1,2023-04-16,Investigation Required,Low,21
+FDB00430,CLM00273,CUST00273,Very Satisfied,Fast response,4,2023-06-17,Missing Documentation,Medium,24
+FDB00431,CLM00286,CUST00286,Very Satisfied,Easy process,4,2021-02-17,Very High Expected Loss,Critical,11
+FDB00432,CLM00361,CUST00361,Very Satisfied,Easy process,4,2023-10-03,Investigation Required,Low,15
+FDB00433,CLM00355,CUST00355,Neutral,Needed more information,2,2023-10-08,Delayed Reporting,Low,27
+FDB00434,CLM00992,CUST00992,Neutral,Clear communication,2,2023-11-28,Investigation Required,Medium,12
+FDB00435,CLM00279,CUST00279,Neutral,Other,2,2023-09-29,Missing Documentation,Low,25
+FDB00436,CLM00013,CUST00013,Satisfied,Fast response,3,2026-07-31,Investigation Required,Medium,12
+FDB00437,CLM00183,CUST00183,Satisfied,Easy process,3,2025-10-19,Normal Low-Risk Claim,Low,8
+FDB00438,CLM00369,CUST00369,Satisfied,Fast response,3,2024-12-20,Delayed Reporting,Medium,15
+FDB00439,CLM00495,CUST00495,Neutral,Other,2,2022-09-23,Missing Documentation,Low,13
+FDB00440,CLM00800,CUST00800,Needs Improvement,Processing took too long,1,2021-08-29,Delayed Reporting,High,84
+FDB00441,CLM00224,CUST00224,Neutral,Clear communication,2,2024-02-06,Severe Incident,Medium,23
+FDB00442,CLM00576,CUST00576,Satisfied,Clear communication,3,2021-03-28,Investigation Required,Low,22
+FDB00443,CLM00704,CUST00704,Satisfied,Easy process,3,2021-12-04,Delayed Reporting,Low,25
+FDB00444,CLM00588,CUST00588,Very Satisfied,Easy process,4,2023-05-10,Delayed Reporting,High,18
+FDB00445,CLM00548,CUST00548,Satisfied,Fast response,3,2021-03-26,Delayed Reporting,Low,22
+FDB00446,CLM00676,CUST00676,Satisfied,Clear communication,3,2021-01-26,Delayed Reporting,Low,26
+FDB00447,CLM00756,CUST00756,Satisfied,Fast response,3,2023-01-12,Delayed Reporting,Low,17
+FDB00448,CLM00177,CUST00177,Needs Improvement,Other,1,2022-04-20,Investigation Required,Low,17
+FDB00449,CLM00670,CUST00670,Neutral,Needed more information,2,2026-04-09,Severe Incident,Medium,24
+FDB00450,CLM00632,CUST00632,Very Satisfied,Clear communication,4,2023-03-29,Severe Incident,Low,7
+FDB00451,CLM00590,CUST00590,Neutral,Clear communication,2,2025-11-13,Normal Low-Risk Claim,Low,12
+FDB00452,CLM00523,CUST00523,Neutral,Other,2,2026-04-23,Delayed Reporting,Low,73
+FDB00453,CLM00394,CUST00394,Satisfied,Easy process,3,2025-03-13,Investigation Required,Low,15
+FDB00454,CLM00164,CUST00164,Satisfied,Easy process,3,2021-04-13,Missing Documentation,Low,39
+FDB00455,CLM00249,CUST00249,Neutral,Other,2,2024-03-11,Delayed Reporting,Low,31
+FDB00456,CLM00639,CUST00639,Neutral,Needed more information,2,2025-07-12,Delayed Reporting,Low,27
+FDB00457,CLM00890,CUST00890,Very Satisfied,Fast response,4,2023-08-21,Delayed Reporting,Low,23
+FDB00458,CLM00674,CUST00674,Neutral,Other,2,2024-10-17,Delayed Reporting,Low,15
+FDB00459,CLM00376,CUST00376,Neutral,Needed more information,2,2021-07-02,Delayed Reporting,High,24
+FDB00460,CLM00413,CUST00413,Neutral,Other,2,2023-06-24,Very High Expected Loss,Critical,13
+FDB00461,CLM00075,CUST00075,Satisfied,Easy process,3,2021-08-29,Investigation Required,Low,19
+FDB00462,CLM00114,CUST00114,Very Satisfied,Clear communication,4,2025-10-07,Severe Incident,Low,16
+FDB00463,CLM00573,CUST00573,Neutral,Clear communication,2,2022-08-27,Normal Low-Risk Claim,Low,11
+FDB00464,CLM00644,CUST00644,Satisfied,Easy process,3,2022-04-28,Missing Documentation,Low,24
+FDB00465,CLM00391,CUST00391,Neutral,Other,2,2024-06-12,Severe Incident,Low,20
+FDB00466,CLM00105,CUST00105,Satisfied,Fast response,3,2021-02-14,Delayed Reporting,Low,15
+FDB00467,CLM00115,CUST00115,Satisfied,Easy process,3,2021-02-15,Severe Incident,Medium,22
+FDB00468,CLM00418,CUST00418,Neutral,Needed more information,2,2026-01-27,Delayed Reporting,Low,22
+FDB00469,CLM00713,CUST00713,Needs Improvement,Processing took too long,1,2023-08-07,Missing Documentation,Low,25
+FDB00470,CLM00458,CUST00458,Very Satisfied,Clear communication,4,2024-06-05,Delayed Reporting,Critical,19
+FDB00471,CLM00410,CUST00410,Neutral,Needed more information,2,2023-05-05,Missing Documentation,Low,35
+FDB00472,CLM00093,CUST00093,Satisfied,Fast response,3,2021-05-16,Investigation Required,Low,20
+FDB00473,CLM00954,CUST00954,Satisfied,Fast response,3,2023-01-28,Investigation Required,Low,21
+FDB00474,CLM00090,CUST00090,Very Satisfied,Easy process,4,2021-08-15,Delayed Reporting,Critical,26
+FDB00475,CLM00337,CUST00337,Very Satisfied,Clear communication,4,2022-04-03,Delayed Reporting,Low,21
+FDB00476,CLM00994,CUST00994,Needs Improvement,Needed more information,1,2021-05-10,Delayed Reporting,Low,21
+FDB00477,CLM00926,CUST00926,Needs Improvement,Other,1,2022-12-29,Delayed Reporting,Low,15
+FDB00478,CLM00938,CUST00938,Very Satisfied,Clear communication,4,2024-01-03,Missing Documentation,Low,20
+FDB00479,CLM00901,CUST00901,Satisfied,Fast response,3,2025-10-30,Severe Incident,Low,22
+FDB00480,CLM00598,CUST00598,Very Satisfied,Fast response,4,2022-09-18,Unusual Claim Pattern,Critical,11
+FDB00481,CLM00616,CUST00616,Needs Improvement,Processing took too long,1,2024-05-16,Investigation Required,Medium,14
+FDB00482,CLM00095,CUST00095,Needs Improvement,Needed more information,1,2021-04-16,Severe Incident,Low,12
+FDB00483,CLM00012,CUST00012,Very Satisfied,Easy process,4,2024-02-09,Delayed Reporting,High,20
+FDB00484,CLM00397,CUST00397,Very Satisfied,Fast response,4,2023-06-22,Missing Documentation,Low,12
+FDB00485,CLM00536,CUST00536,Neutral,Clear communication,2,2025-03-31,Normal Low-Risk Claim,Low,10
+FDB00486,CLM00044,CUST00044,Neutral,Other,2,2023-12-25,Normal Low-Risk Claim,Low,12
+FDB00487,CLM00043,CUST00043,Very Satisfied,Clear communication,4,2022-04-30,Normal Low-Risk Claim,Low,9
+FDB00488,CLM00330,CUST00330,Satisfied,Easy process,3,2021-12-13,Missing Documentation,Low,25
+FDB00489,CLM00168,CUST00168,Neutral,Needed more information,2,2021-09-21,Normal Low-Risk Claim,Low,10
+FDB00490,CLM00500,CUST00500,Neutral,Clear communication,2,2023-08-04,Delayed Reporting,Low,17
+FDB00491,CLM00881,CUST00881,Neutral,Other,2,2024-10-25,Delayed Reporting,Low,31
+FDB00492,CLM00602,CUST00602,Satisfied,Easy process,3,2022-11-28,Missing Documentation,Low,16
+FDB00493,CLM00761,CUST00761,Neutral,Needed more information,2,2021-05-13,Investigation Required,Low,21
+FDB00494,CLM00101,CUST00101,Satisfied,Fast response,3,2026-08-22,Missing Documentation,Medium,19
+FDB00495,CLM00427,CUST00427,Satisfied,Clear communication,3,2025-05-19,Normal Low-Risk Claim,Low,15
+FDB00496,CLM00179,CUST00179,Satisfied,Clear communication,3,2025-04-28,Delayed Reporting,Low,23
+FDB00497,CLM00445,CUST00445,Very Satisfied,Clear communication,4,2025-06-11,Very High Expected Loss,Critical,19
+FDB00498,CLM00417,CUST00417,Very Satisfied,Easy process,4,2023-05-15,Delayed Reporting,Low,25
+FDB00499,CLM00766,CUST00766,Satisfied,Fast response,3,2022-07-02,Normal Low-Risk Claim,Low,7
+FDB00500,CLM00887,CUST00887,Very Satisfied,Easy process,4,2024-08-12,Moderate Risk Claim,Medium,12
+FDB00501,CLM00663,CUST00663,Satisfied,Clear communication,3,2023-04-25,Severe Incident,Low,19
+FDB00502,CLM00178,CUST00178,Satisfied,Fast response,3,2023-07-07,Investigation Required,Low,14
+FDB00503,CLM00396,CUST00396,Very Satisfied,Easy process,4,2022-05-12,Investigation Required,Low,14
+FDB00504,CLM00681,CUST00681,Satisfied,Easy process,3,2023-05-27,Severe Incident,Medium,15
+FDB00505,CLM00798,CUST00798,Needs Improvement,Needed more information,1,2024-12-03,Delayed Reporting,Low,20
+FDB00506,CLM00966,CUST00966,Satisfied,Fast response,3,2021-03-13,Unusual Claim Pattern,Critical,17
+FDB00507,CLM00689,CUST00689,Very Satisfied,Easy process,4,2022-09-07,Very High Expected Loss,Critical,19
+FDB00508,CLM00384,CUST00384,Very Satisfied,Clear communication,4,2024-11-06,Missing Documentation,Low,22
+FDB00509,CLM00962,CUST00962,Satisfied,Easy process,3,2025-03-04,Severe Incident,Low,15
+FDB00510,CLM00617,CUST00617,Satisfied,Clear communication,3,2022-06-23,Missing Documentation,Critical,20
+FDB00511,CLM00258,CUST00258,Satisfied,Clear communication,3,2024-06-20,Missing Documentation,Low,16
+FDB00512,CLM00336,CUST00336,Satisfied,Fast response,3,2026-01-10,Unusual Claim Pattern,Critical,20
+FDB00513,CLM00016,CUST00016,Very Satisfied,Easy process,4,2023-07-30,Normal Low-Risk Claim,Low,13
+FDB00514,CLM00634,CUST00634,Satisfied,Clear communication,3,2025-10-14,Delayed Reporting,Low,16
+FDB00515,CLM00325,CUST00325,Very Satisfied,Fast response,4,2024-10-03,Severe Incident,Low,13
+FDB00516,CLM00763,CUST00763,Neutral,Needed more information,2,2025-09-13,Delayed Reporting,Low,17
+FDB00517,CLM00223,CUST00223,Satisfied,Easy process,3,2022-12-12,Normal Low-Risk Claim,Low,11
+FDB00518,CLM00180,CUST00180,Satisfied,Fast response,3,2023-11-01,Normal Low-Risk Claim,Low,16
+FDB00519,CLM00989,CUST00989,Neutral,Clear communication,2,2023-10-19,Normal Low-Risk Claim,Low,12
+FDB00520,CLM00023,CUST00023,Satisfied,Clear communication,3,2022-03-11,Investigation Required,Low,24
+FDB00521,CLM00357,CUST00357,Needs Improvement,Processing took too long,1,2024-07-03,Normal Low-Risk Claim,Low,7
+FDB00522,CLM00671,CUST00671,Satisfied,Fast response,3,2024-07-13,Normal Low-Risk Claim,Low,12
+FDB00523,CLM00866,CUST00866,Satisfied,Easy process,3,2023-02-01,Delayed Reporting,Medium,18
+FDB00524,CLM00341,CUST00341,Very Satisfied,Fast response,4,2025-10-22,Normal Low-Risk Claim,Low,17
+FDB00525,CLM00432,CUST00432,Neutral,Clear communication,2,2025-01-12,Delayed Reporting,Low,11
+FDB00526,CLM00830,CUST00830,Satisfied,Clear communication,3,2022-02-07,Delayed Reporting,Low,27
+FDB00527,CLM00838,CUST00838,Very Satisfied,Clear communication,4,2025-08-20,Severe Incident,Low,20
+FDB00528,CLM00204,CUST00204,Satisfied,Fast response,3,2023-01-27,Missing Documentation,High,17
+FDB00529,CLM00635,CUST00635,Satisfied,Easy process,3,2026-04-29,Delayed Reporting,Low,30
+FDB00530,CLM00094,CUST00094,Very Satisfied,Easy process,4,2022-01-30,Severe Incident,Low,12
+FDB00531,CLM00967,CUST00967,Satisfied,Fast response,3,2025-04-25,Delayed Reporting,Low,11
+FDB00532,CLM00069,CUST00069,Neutral,Needed more information,2,2023-05-25,Delayed Reporting,Critical,27
+FDB00533,CLM00627,CUST00627,Satisfied,Fast response,3,2024-05-15,Severe Incident,Low,22
+FDB00534,CLM00285,CUST00285,Neutral,Clear communication,2,2021-03-29,Delayed Reporting,Medium,21
+FDB00535,CLM00809,CUST00809,Very Satisfied,Fast response,4,2021-08-13,Investigation Required,Low,25
+FDB00536,CLM00435,CUST00435,Satisfied,Fast response,3,2022-09-06,Normal Low-Risk Claim,Low,6
+FDB00537,CLM00154,CUST00154,Very Satisfied,Clear communication,4,2024-12-03,Delayed Reporting,Low,26
+FDB00538,CLM00076,CUST00076,Neutral,Clear communication,2,2024-04-29,Normal Low-Risk Claim,Low,11
+FDB00539,CLM00735,CUST00735,Very Satisfied,Easy process,4,2024-04-05,Investigation Required,Low,16
+FDB00540,CLM00447,CUST00447,Neutral,Clear communication,2,2025-07-30,Delayed Reporting,High,15
+FDB00541,CLM00189,CUST00189,Satisfied,Fast response,3,2024-01-08,Normal Low-Risk Claim,Low,9
+FDB00542,CLM00272,CUST00272,Needs Improvement,Needed more information,1,2024-08-13,Delayed Reporting,Low,16
+FDB00543,CLM00237,CUST00237,Satisfied,Fast response,3,2023-05-16,Delayed Reporting,Low,19
+FDB00544,CLM00488,CUST00488,Neutral,Other,2,2021-09-17,Normal Low-Risk Claim,Low,9
+FDB00545,CLM00118,CUST00118,Satisfied,Easy process,3,2025-08-10,Very High Expected Loss,Critical,19
+FDB00546,CLM00823,CUST00823,Satisfied,Fast response,3,2021-08-04,Investigation Required,Low,23
+FDB00547,CLM00513,CUST00513,Satisfied,Easy process,3,2022-08-08,High-Cost Claim Risk,High,17
+FDB00548,CLM00799,CUST00799,Satisfied,Fast response,3,2023-03-18,Delayed Reporting,Low,30
+FDB00549,CLM00596,CUST00596,Neutral,Clear communication,2,2022-11-17,Normal Low-Risk Claim,Low,17
+FDB00550,CLM00127,CUST00127,Neutral,Other,2,2026-01-24,Investigation Required,Low,6
+FDB00551,CLM00117,CUST00117,Neutral,Clear communication,2,2023-12-01,Delayed Reporting,Low,25
+FDB00552,CLM00474,CUST00474,Satisfied,Easy process,3,2022-06-21,Normal Low-Risk Claim,Low,12
+FDB00553,CLM00698,CUST00698,Satisfied,Fast response,3,2025-09-16,Severe Incident,Low,11
+FDB00554,CLM00058,CUST00058,Satisfied,Clear communication,3,2025-05-25,Delayed Reporting,Low,20
+FDB00555,CLM00679,CUST00679,Very Satisfied,Fast response,4,2021-12-25,Very High Expected Loss,Critical,16
+FDB00556,CLM00917,CUST00917,Neutral,Needed more information,2,2025-09-29,Severe Incident,Low,15
+FDB00557,CLM00370,CUST00370,Satisfied,Easy process,3,2022-05-16,Delayed Reporting,Low,22
+FDB00558,CLM00269,CUST00269,Neutral,Clear communication,2,2024-03-28,Delayed Reporting,Low,26
+FDB00559,CLM00047,CUST00047,Very Satisfied,Fast response,4,2024-12-23,Missing Documentation,Low,35
+FDB00560,CLM00350,CUST00350,Satisfied,Fast response,3,2023-02-03,High-Cost Claim Risk,High,15
+FDB00561,CLM00196,CUST00196,Neutral,Needed more information,2,2021-12-04,Missing Documentation,Low,31
+FDB00562,CLM00893,CUST00893,Very Satisfied,Easy process,4,2024-12-08,Delayed Reporting,Low,19
+FDB00563,CLM00264,CUST00264,Neutral,Needed more information,2,2024-12-01,Normal Low-Risk Claim,Low,8
+FDB00564,CLM00444,CUST00444,Neutral,Clear communication,2,2023-09-07,Normal Low-Risk Claim,Low,13
+FDB00565,CLM00680,CUST00680,Very Satisfied,Easy process,4,2026-07-02,Investigation Required,Low,19
+FDB00566,CLM00305,CUST00305,Satisfied,Clear communication,3,2022-02-06,Investigation Required,Low,12
+FDB00567,CLM00342,CUST00342,Needs Improvement,Processing took too long,1,2023-04-06,Missing Documentation,Low,13
+FDB00568,CLM00603,CUST00603,Satisfied,Easy process,3,2026-07-28,Delayed Reporting,Low,23
+FDB00569,CLM00972,CUST00972,Satisfied,Fast response,3,2026-07-18,Delayed Reporting,High,16
+FDB00570,CLM00150,CUST00150,Needs Improvement,Processing took too long,1,2026-04-16,Normal Low-Risk Claim,Low,8
+FDB00571,CLM00125,CUST00125,Satisfied,Fast response,3,2026-08-04,Normal Low-Risk Claim,Low,11
+FDB00572,CLM00791,CUST00791,Satisfied,Fast response,3,2024-02-06,Investigation Required,Low,16
+FDB00573,CLM00827,CUST00827,Very Satisfied,Clear communication,4,2025-04-16,Delayed Reporting,Low,21
+FDB00574,CLM00051,CUST00051,Very Satisfied,Easy process,4,2022-07-19,Severe Incident,Low,10
+FDB00575,CLM00354,CUST00354,Needs Improvement,Processing took too long,1,2026-07-28,Missing Documentation,Low,105
+FDB00576,CLM00932,CUST00932,Very Satisfied,Easy process,4,2021-01-06,Delayed Reporting,Low,26
+FDB00577,CLM00143,CUST00143,Neutral,Other,2,2025-08-30,Normal Low-Risk Claim,Low,10
+FDB00578,CLM00471,CUST00471,Satisfied,Easy process,3,2025-06-10,Delayed Reporting,Low,25
+FDB00579,CLM00400,CUST00400,Neutral,Other,2,2026-06-07,High-Cost Claim Risk,High,10
+FDB00580,CLM00630,CUST00630,Needs Improvement,Other,1,2025-01-03,Very High Expected Loss,Critical,22
+FDB00581,CLM00321,CUST00321,Neutral,Needed more information,2,2022-07-26,Severe Incident,Low,19
+FDB00582,CLM00020,CUST00020,Very Satisfied,Easy process,4,2021-06-24,Delayed Reporting,Low,20
+FDB00583,CLM00814,CUST00814,Satisfied,Clear communication,3,2023-05-27,Delayed Reporting,Low,13
+FDB00584,CLM00834,CUST00834,Satisfied,Clear communication,3,2022-07-13,Delayed Reporting,Low,21
+FDB00585,CLM00882,CUST00882,Neutral,Clear communication,2,2022-04-24,Severe Incident,Low,10
+FDB00586,CLM00408,CUST00408,Neutral,Clear communication,2,2022-03-29,Delayed Reporting,Low,91
+FDB00587,CLM00538,CUST00538,Very Satisfied,Easy process,4,2025-04-18,Investigation Required,Low,12
+FDB00588,CLM00868,CUST00868,Neutral,Clear communication,2,2026-06-01,Severe Incident,Low,11
+FDB00589,CLM00039,CUST00039,Satisfied,Easy process,3,2023-08-15,Delayed Reporting,High,12
+FDB00590,CLM00176,CUST00176,Satisfied,Easy process,3,2025-06-07,Normal Low-Risk Claim,Low,8
+FDB00591,CLM00246,CUST00246,Neutral,Needed more information,2,2022-07-24,Investigation Required,Medium,11
+FDB00592,CLM00833,CUST00833,Neutral,Other,2,2023-12-25,Missing Documentation,Critical,36
+FDB00593,CLM00738,CUST00738,Neutral,Clear communication,2,2022-10-24,Severe Incident,Medium,11
+FDB00594,CLM00759,CUST00759,Very Satisfied,Clear communication,4,2023-01-17,Delayed Reporting,Low,15
+FDB00595,CLM00906,CUST00906,Satisfied,Fast response,3,2025-08-24,Investigation Required,Low,22
+FDB00596,CLM00155,CUST00155,Very Satisfied,Easy process,4,2025-01-30,High-Cost Claim Risk,High,17
+FDB00597,CLM00288,CUST00288,Very Satisfied,Clear communication,4,2025-04-28,Investigation Required,Medium,9
+FDB00598,CLM00614,CUST00614,Needs Improvement,Needed more information,1,2025-10-19,Normal Low-Risk Claim,Low,12
+FDB00599,CLM00570,CUST00570,Needs Improvement,Other,1,2024-11-28,Delayed Reporting,Medium,12
+FDB00600,CLM00969,CUST00969,Satisfied,Fast response,3,2024-07-18,Normal Low-Risk Claim,Low,6
+FDB00601,CLM00018,CUST00018,Needs Improvement,Other,1,2025-10-30,Missing Documentation,Low,27
+FDB00602,CLM00128,CUST00128,Neutral,Clear communication,2,2023-02-13,Normal Low-Risk Claim,Low,8
+FDB00603,CLM00323,CUST00323,Neutral,Clear communication,2,2024-05-07,Delayed Reporting,Low,10
+FDB00604,CLM00256,CUST00256,Neutral,Needed more information,2,2023-10-07,Severe Incident,Low,14
+FDB00605,CLM00985,CUST00985,Needs Improvement,Processing took too long,1,2025-11-19,Delayed Reporting,Critical,19
+FDB00606,CLM00970,CUST00970,Satisfied,Clear communication,3,2023-07-01,Normal Low-Risk Claim,Low,13
+FDB00607,CLM00191,CUST00191,Neutral,Clear communication,2,2024-03-08,Missing Documentation,Low,16
+FDB00608,CLM00116,CUST00116,Needs Improvement,Other,1,2021-07-14,Delayed Reporting,Low,21
+FDB00609,CLM00621,CUST00621,Very Satisfied,Clear communication,4,2021-02-10,Normal Low-Risk Claim,Low,11
+FDB00610,CLM00607,CUST00607,Needs Improvement,Processing took too long,1,2026-04-12,Normal Low-Risk Claim,Low,13
+FDB00611,CLM00181,CUST00181,Satisfied,Fast response,3,2023-12-16,Normal Low-Risk Claim,Low,11
+FDB00612,CLM00302,CUST00302,Satisfied,Clear communication,3,2021-07-09,Severe Incident,Low,25
+FDB00613,CLM00889,CUST00889,Neutral,Clear communication,2,2025-04-22,Severe Incident,Medium,21
+FDB00614,CLM00717,CUST00717,Very Satisfied,Fast response,4,2022-02-19,Normal Low-Risk Claim,Low,11
+FDB00615,CLM00850,CUST00850,Satisfied,Easy process,3,2024-12-18,Moderate Risk Claim,Medium,17
+FDB00616,CLM00690,CUST00690,Satisfied,Fast response,3,2023-11-05,Normal Low-Risk Claim,Low,10
+FDB00617,CLM00666,CUST00666,Very Satisfied,Clear communication,4,2021-01-08,Delayed Reporting,Low,22
+FDB00618,CLM00518,CUST00518,Satisfied,Fast response,3,2022-10-02,Normal Low-Risk Claim,Low,14
+FDB00619,CLM00990,CUST00990,Neutral,Needed more information,2,2023-12-04,Delayed Reporting,Low,32
+FDB00620,CLM00046,CUST00046,Satisfied,Clear communication,3,2025-02-12,Normal Low-Risk Claim,Low,12
+FDB00621,CLM00914,CUST00914,Neutral,Clear communication,2,2024-10-11,Missing Documentation,Low,36
+FDB00622,CLM00158,CUST00158,Very Satisfied,Easy process,4,2026-01-11,Investigation Required,Low,15
+FDB00623,CLM00818,CUST00818,Satisfied,Fast response,3,2022-06-11,Normal Low-Risk Claim,Low,9
+FDB00624,CLM00172,CUST00172,Neutral,Other,2,2021-07-07,Delayed Reporting,Medium,15
+FDB00625,CLM00017,CUST00017,Satisfied,Easy process,3,2022-08-13,Severe Incident,Low,19
+FDB00626,CLM00512,CUST00512,Satisfied,Fast response,3,2022-01-30,Normal Low-Risk Claim,Low,11
+FDB00627,CLM00049,CUST00049,Satisfied,Fast response,3,2023-03-19,Moderate Risk Claim,Medium,8
+FDB00628,CLM00977,CUST00977,Satisfied,Easy process,3,2023-09-14,Normal Low-Risk Claim,Low,15
+FDB00629,CLM00845,CUST00845,Satisfied,Fast response,3,2024-09-07,Delayed Reporting,Low,17
+FDB00630,CLM00516,CUST00516,Satisfied,Clear communication,3,2025-09-27,Unusual Claim Pattern,Critical,19
+FDB00631,CLM00828,CUST00828,Neutral,Needed more information,2,2022-01-31,Normal Low-Risk Claim,Low,11
+FDB00632,CLM00481,CUST00481,Very Satisfied,Easy process,4,2022-02-16,Moderate Risk Claim,Medium,10
+FDB00633,CLM00284,CUST00284,Neutral,Other,2,2021-05-08,Missing Documentation,Medium,37
+FDB00634,CLM00723,CUST00723,Very Satisfied,Fast response,4,2021-12-30,Delayed Reporting,Low,24
+FDB00635,CLM00685,CUST00685,Satisfied,Fast response,3,2022-02-20,Moderate Risk Claim,Medium,13
+FDB00636,CLM00226,CUST00226,Very Satisfied,Fast response,4,2023-08-16,Severe Incident,Low,21
+FDB00637,CLM00027,CUST00027,Satisfied,Easy process,3,2026-06-29,Normal Low-Risk Claim,Low,16
+FDB00638,CLM00787,CUST00787,Neutral,Other,2,2025-09-01,Missing Documentation,Low,24
+FDB00639,CLM00438,CUST00438,Satisfied,Fast response,3,2026-04-16,Delayed Reporting,Critical,26
+FDB00640,CLM00976,CUST00976,Satisfied,Clear communication,3,2022-05-02,Normal Low-Risk Claim,Low,11
+FDB00641,CLM00365,CUST00365,Satisfied,Easy process,3,2026-05-31,Missing Documentation,Low,28
+FDB00642,CLM00230,CUST00230,Very Satisfied,Clear communication,4,2023-05-18,Normal Low-Risk Claim,Low,9
+FDB00643,CLM00038,CUST00038,Satisfied,Fast response,3,2021-05-21,Normal Low-Risk Claim,Low,5
+FDB00644,CLM00971,CUST00971,Neutral,Needed more information,2,2022-08-04,Normal Low-Risk Claim,Low,12
+FDB00645,CLM00375,CUST00375,Very Satisfied,Easy process,4,2022-12-17,Very High Expected Loss,Critical,14
+FDB00646,CLM00470,CUST00470,Satisfied,Easy process,3,2022-08-13,Normal Low-Risk Claim,Low,11
+FDB00647,CLM00973,CUST00973,Needs Improvement,Needed more information,1,2023-05-12,Delayed Reporting,Low,15
+FDB00648,CLM00855,CUST00855,Very Satisfied,Easy process,4,2022-08-22,Normal Low-Risk Claim,Low,10
+FDB00649,CLM00709,CUST00709,Neutral,Other,2,2023-05-30,Severe Incident,High,24
+FDB00650,CLM00844,CUST00844,Needs Improvement,Needed more information,1,2022-09-10,Missing Documentation,Low,22
+FDB00651,CLM00195,CUST00195,Satisfied,Fast response,3,2021-08-19,Delayed Reporting,Low,24
+FDB00652,CLM00859,CUST00859,Needs Improvement,Processing took too long,1,2023-07-06,Missing Documentation,Low,35
+FDB00653,CLM00869,CUST00869,Neutral,Other,2,2023-03-09,Normal Low-Risk Claim,Low,7
+FDB00654,CLM00504,CUST00504,Needs Improvement,Processing took too long,1,2025-06-29,Investigation Required,Low,19
+FDB00655,CLM00975,CUST00975,Very Satisfied,Clear communication,4,2021-04-30,Delayed Reporting,Low,20
+FDB00656,CLM00835,CUST00835,Satisfied,Easy process,3,2025-01-08,Normal Low-Risk Claim,Low,6
+FDB00657,CLM00580,CUST00580,Satisfied,Easy process,3,2025-01-11,Normal Low-Risk Claim,Low,15
+FDB00658,CLM00974,CUST00974,Neutral,Needed more information,2,2023-01-20,Delayed Reporting,Low,20
+FDB00659,CLM00163,CUST00163,Very Satisfied,Fast response,4,2021-03-16,Delayed Reporting,Low,22
+FDB00660,CLM00707,CUST00707,Satisfied,Easy process,3,2022-03-31,Normal Low-Risk Claim,Low,9
+FDB00661,CLM00153,CUST00153,Very Satisfied,Clear communication,4,2022-05-02,Investigation Required,Low,27
+FDB00662,CLM00686,CUST00686,Neutral,Clear communication,2,2024-08-12,Normal Low-Risk Claim,Low,10
+FDB00663,CLM00705,CUST00705,Very Satisfied,Clear communication,4,2022-05-02,Investigation Required,Low,22
+FDB00664,CLM00760,CUST00760,Very Satisfied,Easy process,4,2026-02-13,Delayed Reporting,Low,17
+FDB00665,CLM00112,CUST00112,Needs Improvement,Processing took too long,1,2021-04-15,Investigation Required,Low,21
+FDB00666,CLM00227,CUST00227,Satisfied,Clear communication,3,2023-03-27,Delayed Reporting,Low,28
+FDB00667,CLM00693,CUST00693,Satisfied,Fast response,3,2025-05-29,Severe Incident,Low,25
+FDB00668,CLM00104,CUST00104,Satisfied,Easy process,3,2022-04-24,Delayed Reporting,Low,20
+FDB00669,CLM00422,CUST00422,Very Satisfied,Clear communication,4,2021-04-01,Normal Low-Risk Claim,Low,12
+FDB00670,CLM00420,CUST00420,Very Satisfied,Easy process,4,2023-08-27,Delayed Reporting,Critical,19
+FDB00671,CLM00755,CUST00755,Satisfied,Easy process,3,2025-02-11,Investigation Required,Low,14
+FDB00672,CLM00587,CUST00587,Neutral,Clear communication,2,2026-05-04,Delayed Reporting,Low,25
+FDB00673,CLM00785,CUST00785,Satisfied,Easy process,3,2025-03-20,Unusual Claim Pattern,High,102
+FDB00674,CLM00673,CUST00673,Satisfied,Clear communication,3,2023-12-23,Missing Documentation,Medium,18
+FDB00675,CLM00120,CUST00120,Very Satisfied,Easy process,4,2024-01-30,Normal Low-Risk Claim,Low,9
+FDB00676,CLM00054,CUST00054,Very Satisfied,Fast response,4,2023-04-12,Delayed Reporting,Medium,17
+FDB00677,CLM00152,CUST00152,Neutral,Clear communication,2,2021-12-29,Delayed Reporting,Medium,26
+FDB00678,CLM00404,CUST00404,Satisfied,Easy process,3,2022-07-20,Normal Low-Risk Claim,Low,13
+FDB00679,CLM00950,CUST00950,Satisfied,Clear communication,3,2024-01-08,Normal Low-Risk Claim,Low,12
+FDB00680,CLM00208,CUST00208,Satisfied,Clear communication,3,2025-09-07,Delayed Reporting,Low,27
+FDB00681,CLM00659,CUST00659,Very Satisfied,Clear communication,4,2025-02-01,Very High Expected Loss,Critical,20
+FDB00682,CLM00848,CUST00848,Neutral,Needed more information,2,2023-07-11,Investigation Required,Low,22
+FDB00683,CLM00836,CUST00836,Satisfied,Easy process,3,2024-03-01,Moderate Risk Claim,Medium,8
+FDB00684,CLM00009,CUST00009,Very Satisfied,Easy process,4,2023-05-14,Normal Low-Risk Claim,Low,8
+FDB00685,CLM00812,CUST00812,Neutral,Clear communication,2,2022-04-03,Delayed Reporting,Low,12
+FDB00686,CLM00037,CUST00037,Neutral,Clear communication,2,2021-08-08,Delayed Reporting,Low,19
+FDB00687,CLM00453,CUST00453,Satisfied,Easy process,3,2023-08-23,Missing Documentation,Low,24
+FDB00688,CLM00652,CUST00652,Needs Improvement,Other,1,2023-06-02,Delayed Reporting,Low,21
+FDB00689,CLM00254,CUST00254,Satisfied,Fast response,3,2023-06-26,Normal Low-Risk Claim,Low,11
+FDB00690,CLM00304,CUST00304,Satisfied,Easy process,3,2024-04-26,Moderate Risk Claim,Medium,10
+FDB00691,CLM00751,CUST00751,Satisfied,Fast response,3,2025-12-05,Delayed Reporting,Low,27
+FDB00692,CLM00572,CUST00572,Neutral,Clear communication,2,2026-04-28,Delayed Reporting,Low,82
+FDB00693,CLM00624,CUST00624,Very Satisfied,Easy process,4,2025-07-06,Missing Documentation,Low,20
+FDB00694,CLM00714,CUST00714,Satisfied,Easy process,3,2026-05-08,Severe Incident,Low,19
+FDB00695,CLM00724,CUST00724,Neutral,Needed more information,2,2021-08-05,Delayed Reporting,Low,19
+FDB00696,CLM00263,CUST00263,Very Satisfied,Clear communication,4,2025-08-03,Delayed Reporting,Low,19
+FDB00697,CLM00611,CUST00611,Neutral,Other,2,2021-07-15,Severe Incident,Low,19
+FDB00698,CLM00298,CUST00298,Neutral,Clear communication,2,2024-11-12,High-Cost Claim Risk,High,9
+FDB00699,CLM00415,CUST00415,Neutral,Other,2,2025-03-25,Normal Low-Risk Claim,Low,11
+FDB00700,CLM00151,CUST00151,Neutral,Needed more information,2,2023-05-01,Delayed Reporting,Critical,20
+FDB00701,CLM00793,CUST00793,Very Satisfied,Clear communication,4,2025-10-25,Normal Low-Risk Claim,Low,5
+FDB00702,CLM00641,CUST00641,Very Satisfied,Clear communication,4,2024-07-21,Delayed Reporting,Low,22
+FDB00703,CLM00894,CUST00894,Very Satisfied,Fast response,4,2024-06-24,Normal Low-Risk Claim,Low,12
+FDB00704,CLM00551,CUST00551,Neutral,Clear communication,2,2023-09-24,Delayed Reporting,Low,14
+FDB00705,CLM00802,CUST00802,Satisfied,Fast response,3,2024-08-15,Investigation Required,Low,27
+FDB00706,CLM00489,CUST00489,Satisfied,Fast response,3,2024-08-21,Delayed Reporting,Low,26
+FDB00707,CLM00148,CUST00148,Satisfied,Easy process,3,2026-08-21,Investigation Required,Low,19
+FDB00708,CLM00147,CUST00147,Satisfied,Clear communication,3,2023-09-06,Normal Low-Risk Claim,Low,11
+FDB00709,CLM00897,CUST00897,Satisfied,Easy process,3,2023-01-17,Severe Incident,Low,19
+FDB00710,CLM00936,CUST00936,Neutral,Needed more information,2,2025-06-18,Normal Low-Risk Claim,Low,9
+FDB00711,CLM00744,CUST00744,Satisfied,Clear communication,3,2022-02-21,Delayed Reporting,Low,24
+FDB00712,CLM00660,CUST00660,Satisfied,Fast response,3,2026-01-31,Severe Incident,Low,8
+FDB00713,CLM00349,CUST00349,Satisfied,Clear communication,3,2023-07-04,Normal Low-Risk Claim,Low,12
+FDB00714,CLM00464,CUST00464,Needs Improvement,Needed more information,1,2022-06-19,Delayed Reporting,Low,17
+FDB00715,CLM00326,CUST00326,Neutral,Needed more information,2,2022-11-05,Delayed Reporting,Low,21
+FDB00716,CLM00187,CUST00187,Needs Improvement,Needed more information,1,2026-04-23,Normal Low-Risk Claim,Low,6
+FDB00717,CLM00124,CUST00124,Neutral,Clear communication,2,2026-05-01,Normal Low-Risk Claim,Low,9
+FDB00718,CLM00858,CUST00858,Satisfied,Easy process,3,2024-08-07,Normal Low-Risk Claim,Low,11
+FDB00719,CLM00609,CUST00609,Very Satisfied,Clear communication,4,2025-11-10,Investigation Required,Low,8
+FDB00720,CLM00144,CUST00144,Neutral,Needed more information,2,2026-04-14,High-Cost Claim Risk,High,12
+FDB00721,CLM00964,CUST00964,Needs Improvement,Needed more information,1,2025-10-13,Missing Documentation,Low,29
+FDB00722,CLM00198,CUST00198,Satisfied,Clear communication,3,2025-06-01,Investigation Required,Low,12
+FDB00723,CLM00610,CUST00610,Very Satisfied,Easy process,4,2025-02-20,Investigation Required,Low,21
+FDB00724,CLM00280,CUST00280,Satisfied,Easy process,3,2021-05-31,Normal Low-Risk Claim,Low,4
+FDB00725,CLM00294,CUST00294,Very Satisfied,Fast response,4,2024-04-10,Investigation Required,Low,14
+FDB00726,CLM00401,CUST00401,Satisfied,Clear communication,3,2025-01-12,Unusual Claim Pattern,Critical,22
+FDB00727,CLM00123,CUST00123,Satisfied,Clear communication,3,2021-12-07,Delayed Reporting,Low,20
+FDB00728,CLM00184,CUST00184,Satisfied,Fast response,3,2024-08-25,Delayed Reporting,Low,17
+FDB00729,CLM00203,CUST00203,Satisfied,Easy process,3,2025-01-30,Delayed Reporting,Low,27
+FDB00730,CLM00439,CUST00439,Very Satisfied,Easy process,4,2021-04-21,Unusual Claim Pattern,Medium,17
+FDB00731,CLM00247,CUST00247,Very Satisfied,Clear communication,4,2024-04-22,Investigation Required,Low,22
+FDB00732,CLM00416,CUST00416,Neutral,Other,2,2026-03-19,Investigation Required,Low,20
+FDB00733,CLM00781,CUST00781,Very Satisfied,Fast response,4,2024-02-05,Delayed Reporting,Low,22
+FDB00734,CLM00983,CUST00983,Neutral,Needed more information,2,2023-02-08,Missing Documentation,Critical,29
+FDB00735,CLM00911,CUST00911,Very Satisfied,Clear communication,4,2023-04-29,High-Cost Claim Risk,High,11
+FDB00736,CLM00864,CUST00864,Needs Improvement,Needed more information,1,2025-01-11,Delayed Reporting,Low,28
+FDB00737,CLM00892,CUST00892,Needs Improvement,Needed more information,1,2023-01-28,Delayed Reporting,Critical,21
+FDB00738,CLM00130,CUST00130,Satisfied,Fast response,3,2024-11-15,Severe Incident,Low,11
+FDB00739,CLM00638,CUST00638,Neutral,Clear communication,2,2022-09-30,Delayed Reporting,Medium,19
+FDB00740,CLM00403,CUST00403,Needs Improvement,Needed more information,1,2025-12-07,Investigation Required,Low,7
+FDB00741,CLM00789,CUST00789,Satisfied,Fast response,3,2025-06-21,Delayed Reporting,Low,22
+FDB00742,CLM00775,CUST00775,Very Satisfied,Easy process,4,2025-09-20,Normal Low-Risk Claim,Low,10
+FDB00743,CLM00736,CUST00736,Very Satisfied,Easy process,4,2021-06-03,Delayed Reporting,Low,28
+FDB00744,CLM00918,CUST00918,Neutral,Needed more information,2,2023-09-05,Delayed Reporting,Critical,31
+FDB00745,CLM00220,CUST00220,Needs Improvement,Processing took too long,1,2023-10-24,Normal Low-Risk Claim,Low,104
+FDB00746,CLM00642,CUST00642,Satisfied,Fast response,3,2021-10-03,Delayed Reporting,Low,23
+FDB00747,CLM00920,CUST00920,Very Satisfied,Easy process,4,2021-12-22,Normal Low-Risk Claim,Low,8
+FDB00748,CLM00757,CUST00757,Neutral,Other,2,2024-03-05,Delayed Reporting,Low,23
+FDB00749,CLM00811,CUST00811,Satisfied,Fast response,3,2021-12-16,Delayed Reporting,Low,17
+FDB00750,CLM00924,CUST00924,Neutral,Other,2,2024-08-07,Investigation Required,Low,18
+FDB00751,CLM00625,CUST00625,Neutral,Clear communication,2,2024-06-03,Normal Low-Risk Claim,Low,16
+FDB00752,CLM00843,CUST00843,Needs Improvement,Processing took too long,1,2024-04-13,Missing Documentation,Low,35
+FDB00753,CLM00765,CUST00765,Needs Improvement,Processing took too long,1,2023-04-06,Delayed Reporting,Low,27
+FDB00754,CLM00387,CUST00387,Satisfied,Fast response,3,2023-03-29,Unusual Claim Pattern,Low,22
+FDB00755,CLM00978,CUST00978,Very Satisfied,Easy process,4,2023-10-25,Missing Documentation,Medium,23
+FDB00756,CLM00510,CUST00510,Satisfied,Easy process,3,2021-12-25,Investigation Required,Medium,22
+FDB00757,CLM00268,CUST00268,Very Satisfied,Easy process,4,2025-06-16,Normal Low-Risk Claim,Low,16
+FDB00758,CLM00824,CUST00824,Very Satisfied,Fast response,4,2025-05-22,Investigation Required,Medium,13
+FDB00759,CLM00442,CUST00442,Neutral,Clear communication,2,2024-11-01,Missing Documentation,Low,25
+FDB00760,CLM00497,CUST00497,Satisfied,Clear communication,3,2026-01-15,Normal Low-Risk Claim,Low,14
+FDB00761,CLM00113,CUST00113,Needs Improvement,Needed more information,1,2025-10-02,Delayed Reporting,Low,21
+FDB00762,CLM00692,CUST00692,Very Satisfied,Fast response,4,2023-05-12,Normal Low-Risk Claim,Low,8
+FDB00763,CLM00233,CUST00233,Neutral,Needed more information,2,2022-01-15,Severe Incident,Low,18
+FDB00764,CLM00874,CUST00874,Satisfied,Clear communication,3,2021-04-18,Delayed Reporting,Low,27
+FDB00765,CLM00608,CUST00608,Neutral,Other,2,2022-10-07,Normal Low-Risk Claim,Low,8
+FDB00766,CLM00672,CUST00672,Neutral,Clear communication,2,2022-06-20,Delayed Reporting,Low,25
+FDB00767,CLM00374,CUST00374,Needs Improvement,Needed more information,1,2024-10-09,Severe Incident,Low,21
+FDB00768,CLM00987,CUST00987,Very Satisfied,Fast response,4,2022-01-19,Severe Incident,Low,16
+FDB00769,CLM00847,CUST00847,Neutral,Clear communication,2,2023-03-23,Normal Low-Risk Claim,Low,11
+FDB00770,CLM00234,CUST00234,Very Satisfied,Easy process,4,2022-11-10,Severe Incident,Low,15
+FDB00771,CLM00790,CUST00790,Satisfied,Clear communication,3,2021-03-01,Normal Low-Risk Claim,Low,17
+FDB00772,CLM00677,CUST00677,Satisfied,Fast response,3,2024-08-13,Severe Incident,Low,16
+FDB00773,CLM00318,CUST00318,Very Satisfied,Easy process,4,2024-07-14,Severe Incident,High,6
+FDB00774,CLM00649,CUST00649,Satisfied,Fast response,3,2025-08-11,Investigation Required,Low,26
+FDB00775,CLM00411,CUST00411,Satisfied,Fast response,3,2024-06-19,Delayed Reporting,Low,14
+FDB00776,CLM00903,CUST00903,Satisfied,Easy process,3,2024-12-31,Normal Low-Risk Claim,Low,11
+FDB00777,CLM00710,CUST00710,Satisfied,Easy process,3,2021-09-09,Normal Low-Risk Claim,Low,7
+FDB00778,CLM00359,CUST00359,Needs Improvement,Processing took too long,1,2024-03-10,Missing Documentation,Critical,31
+FDB00779,CLM00259,CUST00259,Satisfied,Clear communication,3,2022-11-21,Delayed Reporting,Medium,14
+FDB00780,CLM00745,CUST00745,Very Satisfied,Clear communication,4,2026-08-20,Delayed Reporting,Medium,18
+FDB00781,CLM00628,CUST00628,Very Satisfied,Fast response,4,2024-08-02,Delayed Reporting,Low,26
+FDB00782,CLM00633,CUST00633,Neutral,Needed more information,2,2023-05-04,Severe Incident,Low,18
+FDB00783,CLM00283,CUST00283,Very Satisfied,Easy process,4,2021-04-27,Normal Low-Risk Claim,Low,7
+FDB00784,CLM00377,CUST00377,Needs Improvement,Needed more information,1,2026-04-20,Investigation Required,Low,23
+FDB00785,CLM00385,CUST00385,Neutral,Needed more information,2,2026-04-24,Delayed Reporting,Low,13
+FDB00786,CLM00225,CUST00225,Satisfied,Easy process,3,2023-03-27,Investigation Required,Low,13
+FDB00787,CLM00959,CUST00959,Very Satisfied,Easy process,4,2026-08-28,Delayed Reporting,Low,21
+FDB00788,CLM00948,CUST00948,Neutral,Needed more information,2,2025-12-01,Very High Expected Loss,Critical,25
+FDB00789,CLM00473,CUST00473,Satisfied,Fast response,3,2025-10-23,Normal Low-Risk Claim,Low,12
+FDB00790,CLM00348,CUST00348,Satisfied,Clear communication,3,2025-11-02,Normal Low-Risk Claim,Low,9
+FDB00791,CLM00506,CUST00506,Very Satisfied,Fast response,4,2023-02-24,Investigation Required,Medium,16
+FDB00792,CLM00640,CUST00640,Neutral,Needed more information,2,2022-11-05,Normal Low-Risk Claim,Low,12
+FDB00793,CLM00993,CUST00993,Satisfied,Clear communication,3,2025-03-02,Severe Incident,Low,18
+FDB00794,CLM00933,CUST00933,Satisfied,Fast response,3,2025-05-04,Delayed Reporting,Low,24
+FDB00795,CLM00910,CUST00910,Satisfied,Fast response,3,2024-04-03,Severe Incident,High,23
+FDB00796,CLM00620,CUST00620,Very Satisfied,Clear communication,4,2024-10-25,Missing Documentation,Low,21
+FDB00797,CLM00860,CUST00860,Neutral,Clear communication,2,2022-01-31,Normal Low-Risk Claim,Low,6
+FDB00798,CLM00808,CUST00808,Neutral,Needed more information,2,2022-01-08,Normal Low-Risk Claim,Low,7
+FDB00799,CLM00646,CUST00646,Satisfied,Fast response,3,2021-04-14,Delayed Reporting,Low,30
+FDB00800,CLM00851,CUST00851,Satisfied,Easy process,3,2024-11-24,Normal Low-Risk Claim,High,11
+FDB00801,CLM00557,CUST00557,Neutral,Other,2,2025-03-21,Delayed Reporting,Low,16
+FDB00802,CLM00963,CUST00963,Very Satisfied,Fast response,4,2022-11-29,Normal Low-Risk Claim,Low,8
+FDB00803,CLM00578,CUST00578,Very Satisfied,Clear communication,4,2022-10-21,Missing Documentation,Low,14
+FDB00804,CLM00796,CUST00796,Very Satisfied,Easy process,4,2025-11-19,Normal Low-Risk Claim,Low,8
+FDB00805,CLM00086,CUST00086,Satisfied,Fast response,3,2026-05-05,Delayed Reporting,Low,10
+FDB00806,CLM00243,CUST00243,Satisfied,Easy process,3,2022-06-14,Delayed Reporting,Low,16
+FDB00807,CLM00699,CUST00699,Very Satisfied,Clear communication,4,2022-09-16,Normal Low-Risk Claim,Low,9
+FDB00808,CLM00160,CUST00160,Very Satisfied,Clear communication,4,2024-04-18,Moderate Risk Claim,Medium,8
+FDB00809,CLM00525,CUST00525,Satisfied,Fast response,3,2025-07-09,Severe Incident,High,16
+FDB00810,CLM00036,CUST00036,Needs Improvement,Processing took too long,1,2022-05-04,Normal Low-Risk Claim,Low,14
+FDB00811,CLM00541,CUST00541,Neutral,Clear communication,2,2021-12-06,Delayed Reporting,Medium,23
+FDB00812,CLM00171,CUST00171,Satisfied,Fast response,3,2021-06-12,Investigation Required,Low,11
+FDB00813,CLM00655,CUST00655,Needs Improvement,Processing took too long,1,2023-07-17,Investigation Required,Medium,26
+FDB00814,CLM00895,CUST00895,Neutral,Clear communication,2,2026-02-03,Normal Low-Risk Claim,Low,15
+FDB00815,CLM00862,CUST00862,Satisfied,Easy process,3,2023-06-17,Normal Low-Risk Claim,Low,11
+FDB00816,CLM00852,CUST00852,Satisfied,Fast response,3,2025-03-28,Delayed Reporting,Critical,24
+FDB00817,CLM00949,CUST00949,Satisfied,Fast response,3,2025-12-25,Severe Incident,Low,20
+FDB00818,CLM00734,CUST00734,Neutral,Other,2,2021-11-27,Severe Incident,Low,20
+FDB00819,CLM00096,CUST00096,Satisfied,Fast response,3,2026-08-10,Investigation Required,Low,13
+FDB00820,CLM00564,CUST00564,Satisfied,Clear communication,3,2022-05-09,Delayed Reporting,Low,20
+FDB00821,CLM00241,CUST00241,Satisfied,Easy process,3,2022-04-26,Moderate Risk Claim,Medium,11
+FDB00822,CLM00743,CUST00743,Neutral,Other,2,2025-06-02,Severe Incident,Medium,13
+FDB00823,CLM00575,CUST00575,Neutral,Needed more information,2,2024-02-12,Delayed Reporting,Medium,29
+FDB00824,CLM00691,CUST00691,Very Satisfied,Fast response,4,2025-03-21,Severe Incident,Low,14
+FDB00825,CLM00461,CUST00461,Needs Improvement,Other,1,2025-08-19,Delayed Reporting,Low,28
+FDB00826,CLM00554,CUST00554,Satisfied,Fast response,3,2021-05-04,Delayed Reporting,Low,23
+FDB00827,CLM00883,CUST00883,Satisfied,Fast response,3,2022-03-15,Normal Low-Risk Claim,Low,13
+FDB00828,CLM00207,CUST00207,Very Satisfied,Easy process,4,2025-07-23,Normal Low-Risk Claim,Low,10
+FDB00829,CLM00393,CUST00393,Satisfied,Clear communication,3,2021-01-25,Normal Low-Risk Claim,Low,10
+FDB00830,CLM00795,CUST00795,Satisfied,Fast response,3,2024-11-04,Normal Low-Risk Claim,Low,10
+FDB00831,CLM00398,CUST00398,Very Satisfied,Easy process,4,2022-03-07,Normal Low-Risk Claim,Low,10
+FDB00832,CLM00767,CUST00767,Satisfied,Easy process,3,2026-02-04,Severe Incident,Medium,13
+FDB00833,CLM00853,CUST00853,Satisfied,Clear communication,3,2024-04-28,Normal Low-Risk Claim,Low,14
+FDB00834,CLM00218,CUST00218,Neutral,Other,2,2021-12-16,Investigation Required,Low,17
+FDB00835,CLM00005,CUST00005,Satisfied,Easy process,3,2025-12-15,Delayed Reporting,High,19
+FDB00836,CLM00769,CUST00769,Very Satisfied,Clear communication,4,2021-07-15,Investigation Required,Low,18
+FDB00837,CLM00643,CUST00643,Very Satisfied,Clear communication,4,2023-05-12,Normal Low-Risk Claim,High,8
+FDB00838,CLM00902,CUST00902,Satisfied,Fast response,3,2026-04-18,Delayed Reporting,Medium,19
+FDB00839,CLM00613,CUST00613,Satisfied,Fast response,3,2025-02-20,Investigation Required,Low,13
+FDB00840,CLM00739,CUST00739,Very Satisfied,Easy process,4,2026-04-23,Delayed Reporting,Low,17
+FDB00841,CLM00547,CUST00547,Very Satisfied,Clear communication,4,2022-11-03,Severe Incident,Medium,19
+FDB00842,CLM00726,CUST00726,Needs Improvement,Needed more information,1,2023-01-25,Delayed Reporting,Low,14
+FDB00843,CLM00684,CUST00684,Very Satisfied,Easy process,4,2022-01-04,Normal Low-Risk Claim,Low,8
+FDB00844,CLM00099,CUST00099,Satisfied,Clear communication,3,2025-04-22,Normal Low-Risk Claim,Low,5
+FDB00845,CLM00805,CUST00805,Neutral,Clear communication,2,2021-10-18,Severe Incident,Medium,26
+FDB00846,CLM00728,CUST00728,Neutral,Other,2,2024-05-25,Severe Incident,Medium,26
+FDB00847,CLM00574,CUST00574,Neutral,Other,2,2025-12-17,Severe Incident,Low,9
+FDB00848,CLM00407,CUST00407,Very Satisfied,Fast response,4,2021-05-20,Delayed Reporting,Low,22
+FDB00849,CLM00503,CUST00503,Needs Improvement,Needed more information,1,2026-03-11,Delayed Reporting,Low,29
+FDB00850,CLM00048,CUST00048,Satisfied,Fast response,3,2022-02-03,Investigation Required,Low,11
+FDB00851,CLM00033,CUST00033,Very Satisfied,Clear communication,4,2023-05-05,Investigation Required,Low,18
+FDB00852,CLM00780,CUST00780,Satisfied,Easy process,3,2025-05-21,Missing Documentation,Low,22
+FDB00853,CLM00840,CUST00840,Needs Improvement,Needed more information,1,2022-11-27,Normal Low-Risk Claim,Low,11
+FDB00854,CLM00201,CUST00201,Very Satisfied,Clear communication,4,2022-11-28,Delayed Reporting,Low,23
+FDB00855,CLM00135,CUST00135,Very Satisfied,Fast response,4,2025-07-01,Delayed Reporting,Low,10
+FDB00856,CLM00028,CUST00028,Satisfied,Fast response,3,2022-08-23,Missing Documentation,Low,16
+FDB00857,CLM00885,CUST00885,Needs Improvement,Other,1,2021-02-28,Delayed Reporting,Medium,20
+FDB00858,CLM00231,CUST00231,Very Satisfied,Easy process,4,2024-05-07,Delayed Reporting,Critical,24
+FDB00859,CLM00490,CUST00490,Satisfied,Easy process,3,2023-07-23,Delayed Reporting,Low,16
+FDB00860,CLM00773,CUST00773,Neutral,Other,2,2025-11-01,Missing Documentation,High,35
+FDB00861,CLM00379,CUST00379,Neutral,Other,2,2026-07-16,Missing Documentation,Medium,32
+FDB00862,CLM00289,CUST00289,Neutral,Other,2,2025-10-07,Delayed Reporting,Medium,27
+FDB00863,CLM00419,CUST00419,Very Satisfied,Easy process,4,2022-06-05,Normal Low-Risk Claim,Low,10
+FDB00864,CLM00675,CUST00675,Very Satisfied,Fast response,4,2022-10-09,Normal Low-Risk Claim,Low,12
+FDB00865,CLM00392,CUST00392,Very Satisfied,Clear communication,4,2023-03-26,Delayed Reporting,Medium,25
+FDB00866,CLM00593,CUST00593,Very Satisfied,Easy process,4,2025-07-29,Normal Low-Risk Claim,Low,13
+FDB00867,CLM00499,CUST00499,Very Satisfied,Easy process,4,2025-12-03,Normal Low-Risk Claim,Low,10
+FDB00868,CLM00139,CUST00139,Neutral,Clear communication,2,2026-03-03,Delayed Reporting,Low,31
+FDB00869,CLM00063,CUST00063,Needs Improvement,Other,1,2023-01-27,Normal Low-Risk Claim,Low,12
+FDB00870,CLM00472,CUST00472,Neutral,Other,2,2024-03-04,Delayed Reporting,Low,22
+FDB00871,CLM00648,CUST00648,Needs Improvement,Other,1,2023-03-10,Severe Incident,Low,13
+FDB00872,CLM00129,CUST00129,Neutral,Needed more information,2,2024-07-03,Delayed Reporting,Critical,22
+FDB00873,CLM00982,CUST00982,Very Satisfied,Fast response,4,2025-07-21,Delayed Reporting,Low,11
+FDB00874,CLM00521,CUST00521,Neutral,Clear communication,2,2021-12-09,Investigation Required,Low,23
+FDB00875,CLM00839,CUST00839,Very Satisfied,Easy process,4,2025-10-07,Normal Low-Risk Claim,Low,11
+FDB00876,CLM00968,CUST00968,Neutral,Clear communication,2,2022-09-28,Moderate Risk Claim,Medium,5
+FDB00877,CLM00065,CUST00065,Satisfied,Clear communication,3,2022-11-24,Delayed Reporting,Medium,20
+FDB00878,CLM00813,CUST00813,Neutral,Clear communication,2,2021-03-31,Delayed Reporting,Critical,29
+FDB00879,CLM00015,CUST00015,Neutral,Clear communication,2,2021-12-26,Delayed Reporting,Low,14
+FDB00880,CLM00157,CUST00157,Very Satisfied,Fast response,4,2022-07-23,Delayed Reporting,High,21
+FDB00881,CLM00041,CUST00041,Needs Improvement,Processing took too long,1,2022-10-29,Missing Documentation,Medium,19
+FDB00882,CLM00493,CUST00493,Satisfied,Easy process,3,2026-04-20,Investigation Required,Low,17
+FDB00883,CLM00380,CUST00380,Satisfied,Easy process,3,2023-01-16,Missing Documentation,Low,15
+FDB00884,CLM00188,CUST00188,Neutral,Clear communication,2,2021-03-03,Delayed Reporting,Low,23
+FDB00885,CLM00764,CUST00764,Satisfied,Clear communication,3,2021-11-22,Normal Low-Risk Claim,Low,7
+FDB00886,CLM00217,CUST00217,Neutral,Clear communication,2,2022-04-03,Delayed Reporting,Low,14
+FDB00887,CLM00792,CUST00792,Neutral,Needed more information,2,2021-11-12,Delayed Reporting,Low,18
+FDB00888,CLM00053,CUST00053,Satisfied,Fast response,3,2022-03-27,Normal Low-Risk Claim,Low,8
+FDB00889,CLM00879,CUST00879,Neutral,Clear communication,2,2026-07-28,Investigation Required,Low,26
+FDB00890,CLM00338,CUST00338,Satisfied,Easy process,3,2023-01-13,Delayed Reporting,Low,23
+FDB00891,CLM00749,CUST00749,Neutral,Needed more information,2,2024-11-25,Investigation Required,Low,11
+FDB00892,CLM00720,CUST00720,Satisfied,Easy process,3,2023-07-23,Delayed Reporting,Low,29
+FDB00893,CLM00725,CUST00725,Satisfied,Easy process,3,2024-11-11,Delayed Reporting,Low,15
+FDB00894,CLM00296,CUST00296,Satisfied,Clear communication,3,2022-07-01,Investigation Required,Low,13
+FDB00895,CLM00702,CUST00702,Satisfied,Clear communication,3,2023-09-28,Normal Low-Risk Claim,Low,12
+FDB00896,CLM00252,CUST00252,Satisfied,Easy process,3,2021-03-14,Severe Incident,Low,13
+FDB00897,CLM00727,CUST00727,Satisfied,Easy process,3,2023-04-11,Investigation Required,Low,16
+FDB00898,CLM00462,CUST00462,Satisfied,Fast response,3,2024-11-13,Moderate Risk Claim,Medium,12
+FDB00899,CLM00456,CUST00456,Very Satisfied,Clear communication,4,2023-01-16,Missing Documentation,Low,20
+FDB00900,CLM00816,CUST00816,Very Satisfied,Fast response,4,2026-08-12,Delayed Reporting,Low,22
+FDB00901,CLM00863,CUST00863,Satisfied,Fast response,3,2023-12-14,Normal Low-Risk Claim,Low,7
+FDB00902,CLM00270,CUST00270,Satisfied,Easy process,3,2023-11-05,Delayed Reporting,Low,26
+FDB00903,CLM00202,CUST00202,Neutral,Needed more information,2,2021-03-01,Normal Low-Risk Claim,Low,9
+FDB00904,CLM00162,CUST00162,Satisfied,Easy process,3,2025-01-13,Investigation Required,Low,12
+FDB00905,CLM00556,CUST00556,Neutral,Clear communication,2,2023-06-25,Missing Documentation,Low,17
+FDB00906,CLM00730,CUST00730,Satisfied,Fast response,3,2022-10-29,Normal Low-Risk Claim,Low,6
+FDB00907,CLM00402,CUST00402,Satisfied,Clear communication,3,2024-05-25,Investigation Required,Low,24
+FDB00908,CLM00703,CUST00703,Satisfied,Clear communication,3,2021-01-22,Delayed Reporting,Low,21
+FDB00909,CLM00477,CUST00477,Satisfied,Clear communication,3,2025-09-01,Investigation Required,Low,18
+FDB00910,CLM00822,CUST00822,Neutral,Needed more information,2,2026-03-03,Delayed Reporting,Medium,19
+FDB00911,CLM00772,CUST00772,Neutral,Other,2,2025-12-24,Delayed Reporting,Low,25
+FDB00912,CLM00106,CUST00106,Very Satisfied,Clear communication,4,2025-08-29,Severe Incident,Medium,14
+FDB00913,CLM00566,CUST00566,Satisfied,Clear communication,3,2022-12-04,Investigation Required,Low,15
+FDB00914,CLM00390,CUST00390,Very Satisfied,Clear communication,4,2026-01-08,Investigation Required,Low,17
+FDB00915,CLM00002,CUST00002,Very Satisfied,Clear communication,4,2023-09-26,Normal Low-Risk Claim,Low,8
+FDB00916,CLM00942,CUST00942,Satisfied,Easy process,3,2025-06-03,Delayed Reporting,Low,16
+FDB00917,CLM00988,CUST00988,Satisfied,Clear communication,3,2021-04-04,Investigation Required,Low,22
+FDB00918,CLM00562,CUST00562,Very Satisfied,Easy process,4,2026-05-02,Normal Low-Risk Claim,Low,7
+FDB00919,CLM00081,CUST00081,Satisfied,Easy process,3,2026-03-17,Delayed Reporting,Medium,12
+FDB00920,CLM00206,CUST00206,Satisfied,Clear communication,3,2022-07-18,Delayed Reporting,Low,20
+FDB00921,CLM00035,CUST00035,Needs Improvement,Other,1,2022-03-03,Unusual Claim Pattern,Critical,13
+FDB00922,CLM00776,CUST00776,Satisfied,Fast response,3,2022-01-17,Delayed Reporting,Low,18
+FDB00923,CLM00509,CUST00509,Satisfied,Fast response,3,2026-08-20,Investigation Required,Medium,25
+FDB00924,CLM00428,CUST00428,Satisfied,Easy process,3,2021-08-25,Missing Documentation,Low,21
+FDB00925,CLM00455,CUST00455,Satisfied,Easy process,3,2023-06-11,Delayed Reporting,Low,21
+FDB00926,CLM00367,CUST00367,Satisfied,Clear communication,3,2021-06-27,Investigation Required,Low,19
+FDB00927,CLM00092,CUST00092,Neutral,Needed more information,2,2022-06-21,Normal Low-Risk Claim,Low,9
+FDB00928,CLM00340,CUST00340,Neutral,Other,2,2024-12-16,Normal Low-Risk Claim,Low,12
+FDB00929,CLM00898,CUST00898,Neutral,Clear communication,2,2021-08-24,Investigation Required,Low,13
+FDB00930,CLM00565,CUST00565,Satisfied,Fast response,3,2023-11-22,Investigation Required,Low,16
+FDB00931,CLM00346,CUST00346,Needs Improvement,Processing took too long,1,2025-11-28,Severe Incident,Low,16
+FDB00932,CLM00777,CUST00777,Neutral,Clear communication,2,2022-07-15,Normal Low-Risk Claim,Low,5
+FDB00933,CLM00242,CUST00242,Neutral,Clear communication,2,2024-09-03,Missing Documentation,Low,38
+FDB00934,CLM00014,CUST00014,Satisfied,Clear communication,3,2021-07-06,Delayed Reporting,Low,25
+FDB00935,CLM00316,CUST00316,Very Satisfied,Fast response,4,2022-04-30,Normal Low-Risk Claim,Low,11
+FDB00936,CLM00601,CUST00601,Neutral,Needed more information,2,2025-01-27,Delayed Reporting,Low,26
+FDB00937,CLM00388,CUST00388,Satisfied,Fast response,3,2024-04-25,Delayed Reporting,Medium,24
+FDB00938,CLM00274,CUST00274,Very Satisfied,Fast response,4,2023-12-16,Delayed Reporting,Critical,18
+FDB00939,CLM00167,CUST00167,Very Satisfied,Easy process,4,2026-04-13,Normal Low-Risk Claim,Low,11
+FDB00940,CLM00841,CUST00841,Neutral,Clear communication,2,2025-10-12,Normal Low-Risk Claim,Low,12
+FDB00941,CLM00998,CUST00998,Very Satisfied,Easy process,4,2024-10-02,Severe Incident,Low,20
+FDB00942,CLM00647,CUST00647,Satisfied,Clear communication,3,2024-12-29,Moderate Risk Claim,Medium,10
+FDB00943,CLM00819,CUST00819,Neutral,Other,2,2023-07-05,Delayed Reporting,Low,25
+FDB00944,CLM00485,CUST00485,Neutral,Needed more information,2,2022-09-12,Delayed Reporting,Low,12
+FDB00945,CLM00986,CUST00986,Neutral,Needed more information,2,2022-09-23,Delayed Reporting,Low,13
+FDB00946,CLM00505,CUST00505,Satisfied,Fast response,3,2025-04-06,Normal Low-Risk Claim,Low,12
+FDB00947,CLM00832,CUST00832,Very Satisfied,Easy process,4,2022-07-06,Investigation Required,Low,19
+FDB00948,CLM00244,CUST00244,Neutral,Needed more information,2,2024-12-25,Severe Incident,Low,8
+FDB00949,CLM00567,CUST00567,Neutral,Clear communication,2,2024-07-18,Delayed Reporting,Low,30
+FDB00950,CLM00876,CUST00876,Very Satisfied,Easy process,4,2023-09-06,Delayed Reporting,Low,33
+FDB00951,CLM00563,CUST00563,Satisfied,Clear communication,3,2025-05-18,Investigation Required,Low,11
+FDB00952,CLM00687,CUST00687,Satisfied,Fast response,3,2024-03-23,Investigation Required,Low,23
+FDB00953,CLM00958,CUST00958,Satisfied,Easy process,3,2026-06-07,Delayed Reporting,Low,31
+FDB00954,CLM00190,CUST00190,Satisfied,Fast response,3,2022-12-31,Delayed Reporting,Low,15
+FDB00955,CLM00783,CUST00783,Very Satisfied,Clear communication,4,2024-08-23,Delayed Reporting,Low,19
+FDB00956,CLM00700,CUST00700,Satisfied,Fast response,3,2021-08-21,Delayed Reporting,Low,20
+FDB00957,CLM00476,CUST00476,Satisfied,Fast response,3,2026-06-23,Unusual Claim Pattern,Critical,25
+FDB00958,CLM00682,CUST00682,Satisfied,Easy process,3,2022-07-30,Normal Low-Risk Claim,Low,7
+FDB00959,CLM00511,CUST00511,Neutral,Other,2,2026-08-06,Missing Documentation,Low,35
+FDB00960,CLM00059,CUST00059,Satisfied,Fast response,3,2023-08-11,Very High Expected Loss,Critical,23
+FDB00961,CLM00475,CUST00475,Very Satisfied,Fast response,4,2024-05-19,Missing Documentation,Critical,25
+FDB00962,CLM00561,CUST00561,Satisfied,Clear communication,3,2026-02-12,Investigation Required,Medium,25
+FDB00963,CLM00857,CUST00857,Neutral,Clear communication,2,2025-02-19,Severe Incident,Low,11
+FDB00964,CLM00748,CUST00748,Neutral,Other,2,2023-08-18,Severe Incident,Low,13
+FDB00965,CLM00253,CUST00253,Satisfied,Easy process,3,2023-01-26,Investigation Required,Low,15
+FDB00966,CLM00022,CUST00022,Very Satisfied,Easy process,4,2024-09-04,Moderate Risk Claim,Medium,16
+FDB00967,CLM00314,CUST00314,Neutral,Clear communication,2,2023-06-24,Missing Documentation,Low,28
+FDB00968,CLM00460,CUST00460,Satisfied,Fast response,3,2022-07-25,Severe Incident,Low,20
+FDB00969,CLM00161,CUST00161,Neutral,Other,2,2024-06-28,Delayed Reporting,Low,26
+FDB00970,CLM00277,CUST00277,Satisfied,Fast response,3,2025-01-25,Severe Incident,Low,8
+FDB00971,CLM00956,CUST00956,Neutral,Other,2,2021-08-23,Missing Documentation,Low,33
+FDB00972,CLM00192,CUST00192,Satisfied,Easy process,3,2022-05-14,Normal Low-Risk Claim,Low,13
+FDB00973,CLM00386,CUST00386,Satisfied,Fast response,3,2024-10-16,Normal Low-Risk Claim,Low,8
+FDB00974,CLM00806,CUST00806,Neutral,Other,2,2025-12-19,Delayed Reporting,Low,13
+FDB00975,CLM00414,CUST00414,Satisfied,Fast response,3,2023-02-05,Investigation Required,Low,24
+FDB00976,CLM00492,CUST00492,Satisfied,Fast response,3,2024-08-28,Delayed Reporting,Low,23
+FDB00977,CLM00344,CUST00344,Satisfied,Fast response,3,2026-07-04,Missing Documentation,Low,15
+FDB00978,CLM00770,CUST00770,Satisfied,Easy process,3,2022-02-22,Missing Documentation,High,26
+FDB00979,CLM00309,CUST00309,Very Satisfied,Clear communication,4,2024-01-01,Investigation Required,Low,10
+FDB00980,CLM00662,CUST00662,Neutral,Other,2,2022-11-07,Delayed Reporting,Low,17
+FDB00981,CLM00131,CUST00131,Satisfied,Fast response,3,2025-02-03,Delayed Reporting,Low,16
+FDB00982,CLM00664,CUST00664,Satisfied,Clear communication,3,2024-08-11,Investigation Required,Low,13
+FDB00983,CLM00872,CUST00872,Neutral,Clear communication,2,2023-06-23,Missing Documentation,Medium,26
+FDB00984,CLM00100,CUST00100,Satisfied,Clear communication,3,2023-04-26,Delayed Reporting,Low,20
+FDB00985,CLM00373,CUST00373,Needs Improvement,Needed more information,1,2022-02-27,Unusual Claim Pattern,Critical,9
+FDB00986,CLM00088,CUST00088,Very Satisfied,Clear communication,4,2025-07-08,Delayed Reporting,Low,19
+FDB00987,CLM00459,CUST00459,Very Satisfied,Easy process,4,2021-07-01,Normal Low-Risk Claim,Low,7
+FDB00988,CLM00331,CUST00331,Neutral,Clear communication,2,2025-01-13,Delayed Reporting,Medium,15
+FDB00989,CLM00215,CUST00215,Neutral,Clear communication,2,2023-05-16,Normal Low-Risk Claim,Low,13
+FDB00990,CLM00467,CUST00467,Very Satisfied,Fast response,4,2025-09-07,Normal Low-Risk Claim,High,14
+FDB00991,CLM00122,CUST00122,Very Satisfied,Clear communication,4,2024-01-04,Investigation Required,Low,10
+FDB00992,CLM00615,CUST00615,Neutral,Clear communication,2,2021-09-13,Investigation Required,Medium,20
+FDB00993,CLM00021,CUST00021,Neutral,Needed more information,2,2021-12-23,Delayed Reporting,Low,18
+FDB00994,CLM00701,CUST00701,Very Satisfied,Easy process,4,2021-02-02,Missing Documentation,Low,18
+FDB00995,CLM00072,CUST00072,Very Satisfied,Easy process,4,2026-06-15,Delayed Reporting,Medium,20
+FDB00996,CLM00107,CUST00107,Very Satisfied,Easy process,4,2022-04-17,Normal Low-Risk Claim,Low,9
+FDB00997,CLM00271,CUST00271,Satisfied,Easy process,3,2022-03-10,Missing Documentation,Low,25
+FDB00998,CLM00861,CUST00861,Satisfied,Easy process,3,2021-06-15,Normal Low-Risk Claim,Low,12
+FDB00999,CLM00436,CUST00436,Satisfied,Clear communication,3,2026-05-04,Normal Low-Risk Claim,Low,13
+FDB01000,CLM00103,CUST00103,Neutral,Needed more information,2,2023-01-13,Delayed Reporting,Low,29

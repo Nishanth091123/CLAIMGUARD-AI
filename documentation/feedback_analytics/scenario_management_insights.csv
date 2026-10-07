@@ -1,0 +1,10 @@
+Scenario,Responses,Average_Satisfaction,Average_Processing_Days,Needs_Improvement,Needs_Improvement_Percentage,Improvement_Priority,Management_Action
+Missing Documentation,95,2.4842105263157896,25.46315789473684,17,17.894736842105264,High,Improve document guidance and request required documents earlier.
+Delayed Reporting,331,2.6797583081570995,21.80664652567976,38,11.48036253776435,Medium,Improve reporting communication and clarify required timelines.
+Severe Incident,110,2.7181818181818183,16.672727272727272,9,8.181818181818182,Medium,Provide proactive updates and dedicated claim support.
+Moderate Risk Claim,29,2.7241379310344827,10.275862068965518,4,13.793103448275861,Medium,Monitor processing time and improve status communication.
+Unusual Claim Pattern,22,2.909090909090909,25.272727272727273,3,13.636363636363635,Medium,Provide clear communication during additional verification.
+Normal Low-Risk Claim,243,2.8353909465020575,10.868312757201647,21,8.641975308641975,Low,Maintain current process and monitor customer experience.
+Investigation Required,143,2.895104895104895,17.405594405594407,11,7.6923076923076925,Low,Improve communication during additional assessment.
+High-Cost Claim Risk,9,3.0,13.777777777777779,0,0.0,Low,Provide timely updates during priority review.
+Very High Expected Loss,18,3.0,18.72222222222222,2,11.11111111111111,Low,Assign proactive communication and senior review support.

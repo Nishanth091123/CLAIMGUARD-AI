@@ -1,0 +1,1 @@
+High-cost claim threshold (90th percentile): 1211213.76

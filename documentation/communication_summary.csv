@@ -1,0 +1,10 @@
+Scenario,Communication_Status,Communication_Channel,Claim_Count,Total_Expected_Loss
+Delayed Reporting,Action Required,SMS + Email,331,78387931.56949447
+Unusual Claim Pattern,Priority Communication,SMS + Email + Manager Review,22,31593451.524243888
+Missing Documentation,Action Required,SMS + Email,95,26377759.288555954
+Very High Expected Loss,Priority Communication,SMS + Email + Manager Alert,18,23383128.914586287
+Severe Incident,Priority Communication,SMS + Email + Manager Review,110,17693274.48358888
+Investigation Required,Priority Communication,SMS + Email + Manager Review,143,13728695.519602189
+Normal Low-Risk Claim,Ready,Standard Customer Update,243,13548970.329693075
+Moderate Risk Claim,Ready,Standard Customer Update,29,8846368.68792403
+High-Cost Claim Risk,Priority Communication,SMS + Email + Manager Review,9,7407935.737759378

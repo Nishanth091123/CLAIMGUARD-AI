@@ -1,0 +1,10 @@
+Scenario,Purpose
+Normal Low-Risk Claim,Routine processing
+Moderate Risk Claim,Standard monitoring
+High-Cost Claim Risk,Higher financial exposure
+Very High Expected Loss,Very high expected financial exposure
+Unusual Claim Pattern,Unusual current-claim pattern
+Missing Documentation,Incomplete documentation
+Delayed Reporting,Delayed incident reporting
+Severe Incident,High incident severity
+Investigation Required,Additional investigation review
